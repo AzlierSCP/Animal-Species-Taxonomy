@@ -1,0 +1,1390 @@
+1         1.                            Animalia.
+2         1.1.                          Animalia.Annelida.
+3         1.1.1.                        Animalia.Annelida.Clitellata.
+4         1.1.1.1.                      Animalia.Annelida.Clitellata.Opisthopora.
+5         1.1.1.1.1.                    Animalia.Annelida.Clitellata.Opisthopora.Limbricidae.
+6         1.1.1.1.1.1.                  Animalia.Annelida.Clitellata.Opisthopora.Limbricidae.Lumbricus Linnaeus.
+7         1.1.1.1.1.1.1.                Animalia.Annelida.Clitellata.Opisthopora.Limbricidae.Lumbricus Linnaeus.Lumbricina.
+8         1.1.2.                        Animalia.Annelida.Polychaeta.
+9         1.1.2.1.                      Animalia.Annelida.Polychaeta.Phyllodocida.
+10        1.1.2.1.1.                    Animalia.Annelida.Polychaeta.Phyllodocida.Polynoidae.
+11        1.1.2.1.1.1.                  Animalia.Annelida.Polychaeta.Phyllodocida.Polynoidae.Eulagisca.
+12        1.1.2.1.1.1.1.                Animalia.Annelida.Polychaeta.Phyllodocida.Polynoidae.Eulagisca.Eulagisca gigantea.
+13        1.2.                          Animalia.Arthropoda.
+14        1.2.1.                        Animalia.Arthropoda.Arachnida.
+15        1.2.1.1.                      Animalia.Arthropoda.Arachnida. Araneae.
+16        1.2.1.1.1.                    Animalia.Arthropoda.Arachnida. Araneae.Theridiidae.
+17        1.2.1.1.1.1.                  Animalia.Arthropoda.Arachnida. Araneae.Theridiidae.Steatoda.
+18        1.2.1.1.1.1.1.                Animalia.Arthropoda.Arachnida. Araneae.Theridiidae.Steatoda.Steatoda grossa.
+19        1.2.1.2.                      Animalia.Arthropoda.Arachnida.Araneae.
+20        1.2.1.2.1.                    Animalia.Arthropoda.Arachnida.Araneae.Araneidae.
+21        1.2.1.2.1.1.                  Animalia.Arthropoda.Arachnida.Araneae.Araneidae.Trichonephila.
+22        1.2.1.2.1.1.1.                Animalia.Arthropoda.Arachnida.Araneae.Araneidae.Trichonephila.Trichonephila clavata.
+23        1.2.1.2.2.                    Animalia.Arthropoda.Arachnida.Araneae.Dysderidae.
+24        1.2.1.2.2.1.                  Animalia.Arthropoda.Arachnida.Araneae.Dysderidae.Dysdera.
+25        1.2.1.2.2.1.1.                Animalia.Arthropoda.Arachnida.Araneae.Dysderidae.Dysdera.Dysdera crocata.
+26        1.2.1.2.3.                    Animalia.Arthropoda.Arachnida.Araneae.Theraphosidae.
+27        1.2.1.2.3.1.                  Animalia.Arthropoda.Arachnida.Araneae.Theraphosidae.Brachypelma.
+28        1.2.1.2.3.1.1.                Animalia.Arthropoda.Arachnida.Araneae.Theraphosidae.Brachypelma.Brachypelma smithi.
+29        1.2.1.2.4.                    Animalia.Arthropoda.Arachnida.Araneae.Theridiidae.
+30        1.2.1.2.4.1.                  Animalia.Arthropoda.Arachnida.Araneae.Theridiidae.Latrodectus.
+31        1.2.1.2.4.1.1.                Animalia.Arthropoda.Arachnida.Araneae.Theridiidae.Latrodectus.Latrodectus.
+32        1.2.1.3.                      Animalia.Arthropoda.Arachnida.Scorpiones.
+33        1.2.1.3.1.                    Animalia.Arthropoda.Arachnida.Scorpiones.Buthidae.
+34        1.2.1.3.1.1.                  Animalia.Arthropoda.Arachnida.Scorpiones.Buthidae.Centruriodes.
+35        1.2.1.3.1.1.1.                Animalia.Arthropoda.Arachnida.Scorpiones.Buthidae.Centruriodes.Centruroides sculpturatus.
+36        1.2.1.4.                      Animalia.Arthropoda.Arachnida.aranae.
+37        1.2.1.4.1.                    Animalia.Arthropoda.Arachnida.aranae.Theridiidae.
+38        1.2.1.4.1.1.                  Animalia.Arthropoda.Arachnida.aranae.Theridiidae.Latrodectus.
+39        1.2.1.4.1.1.1.                Animalia.Arthropoda.Arachnida.aranae.Theridiidae.Latrodectus.Latrodectus hasselti.
+40        1.2.1.4.1.2.                  Animalia.Arthropoda.Arachnida.aranae.Theridiidae.Parasteatoda.
+41        1.2.1.4.1.2.1.                Animalia.Arthropoda.Arachnida.aranae.Theridiidae.Parasteatoda.Parasteatoda tepidariorum.
+42        1.2.2.                        Animalia.Arthropoda.Insecta.
+43        1.2.2.1.                      Animalia.Arthropoda.Insecta.Blattodea.
+44        1.2.2.1.1.                    Animalia.Arthropoda.Insecta.Blattodea.Blattidae.
+45        1.2.2.1.1.1.                  Animalia.Arthropoda.Insecta.Blattodea.Blattidae.Periplaneta.
+46        1.2.2.1.1.1.1.                Animalia.Arthropoda.Insecta.Blattodea.Blattidae.Periplaneta.Periplaneta americana.
+47        1.2.2.2.                      Animalia.Arthropoda.Insecta.Coleoptera.
+48        1.2.2.2.1.                    Animalia.Arthropoda.Insecta.Coleoptera.Carabidae.
+49        1.2.2.2.1.1.                  Animalia.Arthropoda.Insecta.Coleoptera.Carabidae.Cicindela.
+50        1.2.2.2.1.1.1.                Animalia.Arthropoda.Insecta.Coleoptera.Carabidae.Cicindela.Cicindelinae.
+51        1.2.2.2.2.                    Animalia.Arthropoda.Insecta.Coleoptera.Scarabaeidae.
+52        1.2.2.2.2.1.                  Animalia.Arthropoda.Insecta.Coleoptera.Scarabaeidae.Dynastes.
+53        1.2.2.2.2.1.1.                Animalia.Arthropoda.Insecta.Coleoptera.Scarabaeidae.Dynastes.Dynastes hercules.
+54        1.2.2.2.2.2.                  Animalia.Arthropoda.Insecta.Coleoptera.Scarabaeidae.Popillia.
+55        1.2.2.2.2.2.1.                Animalia.Arthropoda.Insecta.Coleoptera.Scarabaeidae.Popillia.Popillia japonica.
+56        1.2.2.3.                      Animalia.Arthropoda.Insecta.Hemiptera.
+57        1.2.2.3.1.                    Animalia.Arthropoda.Insecta.Hemiptera.Fulgoridae.
+58        1.2.2.3.1.1.                  Animalia.Arthropoda.Insecta.Hemiptera.Fulgoridae.Lycorma.
+59        1.2.2.3.1.1.1.                Animalia.Arthropoda.Insecta.Hemiptera.Fulgoridae.Lycorma.Lycorma delicatula.
+60        1.2.2.4.                      Animalia.Arthropoda.Insecta.Hymenoptera.
+61        1.2.2.4.1.                    Animalia.Arthropoda.Insecta.Hymenoptera.Pompilidae.
+62        1.2.2.4.1.1.                  Animalia.Arthropoda.Insecta.Hymenoptera.Pompilidae.Pepsis.
+63        1.2.2.4.1.1.1.                Animalia.Arthropoda.Insecta.Hymenoptera.Pompilidae.Pepsis.Pepsis albocincta.
+64        1.2.2.4.2.                    Animalia.Arthropoda.Insecta.Hymenoptera.Sphecidae.
+65        1.2.2.4.2.1.                  Animalia.Arthropoda.Insecta.Hymenoptera.Sphecidae.Sphex.
+66        1.2.2.4.2.1.1.                Animalia.Arthropoda.Insecta.Hymenoptera.Sphecidae.Sphex.Sphex pensylvanicus.
+67        1.2.2.4.3.                    Animalia.Arthropoda.Insecta.Hymenoptera.Vespidae.
+68        1.2.2.4.3.1.                  Animalia.Arthropoda.Insecta.Hymenoptera.Vespidae.Vespa.
+69        1.2.2.4.3.1.1.                Animalia.Arthropoda.Insecta.Hymenoptera.Vespidae.Vespa.Vespa mandarinia.
+70        1.2.2.5.                      Animalia.Arthropoda.Insecta.Lepidoptera.
+71        1.2.2.5.1.                    Animalia.Arthropoda.Insecta.Lepidoptera.Noctuidae.
+72        1.2.2.5.1.1.                  Animalia.Arthropoda.Insecta.Lepidoptera.Noctuidae.Mythimna.
+73        1.2.2.5.1.1.1.                Animalia.Arthropoda.Insecta.Lepidoptera.Noctuidae.Mythimna.Mythimna unipuncta.
+74        1.2.2.5.2.                    Animalia.Arthropoda.Insecta.Lepidoptera.Notodontidae.
+75        1.2.2.5.2.1.                  Animalia.Arthropoda.Insecta.Lepidoptera.Notodontidae.Cerura.
+76        1.2.2.5.2.1.1.                Animalia.Arthropoda.Insecta.Lepidoptera.Notodontidae.Cerura.Cerura vinula.
+77        1.2.2.5.3.                    Animalia.Arthropoda.Insecta.Lepidoptera.Nymphalidae.
+78        1.2.2.5.3.1.                  Animalia.Arthropoda.Insecta.Lepidoptera.Nymphalidae.Aglais.
+79        1.2.2.5.3.1.1.                Animalia.Arthropoda.Insecta.Lepidoptera.Nymphalidae.Aglais.Aglais io.
+80        1.2.2.5.3.2.                  Animalia.Arthropoda.Insecta.Lepidoptera.Nymphalidae.Danaus.
+81        1.2.2.5.3.2.1.                Animalia.Arthropoda.Insecta.Lepidoptera.Nymphalidae.Danaus.Danaus plexippus.
+82        1.2.2.5.4.                    Animalia.Arthropoda.Insecta.Lepidoptera.Pieridae.
+83        1.2.2.5.4.1.                  Animalia.Arthropoda.Insecta.Lepidoptera.Pieridae.Pieris.
+84        1.2.2.5.4.1.1.                Animalia.Arthropoda.Insecta.Lepidoptera.Pieridae.Pieris.Pieris rapae.
+85        1.2.2.5.5.                    Animalia.Arthropoda.Insecta.Lepidoptera.Saturniidae.
+86        1.2.2.5.5.1.                  Animalia.Arthropoda.Insecta.Lepidoptera.Saturniidae.Antheraea.
+87        1.2.2.5.5.1.1.                Animalia.Arthropoda.Insecta.Lepidoptera.Saturniidae.Antheraea.Antheraea polyphemus.
+88        1.2.2.5.5.2.                  Animalia.Arthropoda.Insecta.Lepidoptera.Saturniidae.Eacles.
+89        1.2.2.5.5.2.1.                Animalia.Arthropoda.Insecta.Lepidoptera.Saturniidae.Eacles.Eacles imperialis.
+90        1.2.2.6.                      Animalia.Arthropoda.Insecta.Orthoptera.
+91        1.2.2.6.1.                    Animalia.Arthropoda.Insecta.Orthoptera.Acrididae.
+92        1.2.2.6.1.1.                  Animalia.Arthropoda.Insecta.Orthoptera.Acrididae.Schistocerca.
+93        1.2.2.6.1.1.1.                Animalia.Arthropoda.Insecta.Orthoptera.Acrididae.Schistocerca.Schistocerca gregaria.
+94        1.2.3.                        Animalia.Arthropoda.Malacostraca.
+95        1.2.3.1.                      Animalia.Arthropoda.Malacostraca.Decapoda.
+96        1.2.3.1.1.                    Animalia.Arthropoda.Malacostraca.Decapoda.Cancridae.
+97        1.2.3.1.1.1.                  Animalia.Arthropoda.Malacostraca.Decapoda.Cancridae.Cancer.
+98        1.2.3.1.1.1.1.                Animalia.Arthropoda.Malacostraca.Decapoda.Cancridae.Cancer.Cancer productus.
+99        1.2.3.1.2.                    Animalia.Arthropoda.Malacostraca.Decapoda.Gecarcinidae.
+100       1.2.3.1.2.1.                  Animalia.Arthropoda.Malacostraca.Decapoda.Gecarcinidae.Gecarcoidea.
+101       1.2.3.1.2.1.1.                Animalia.Arthropoda.Malacostraca.Decapoda.Gecarcinidae.Gecarcoidea.Gecarcoidea natalis.
+102       1.2.3.1.3.                    Animalia.Arthropoda.Malacostraca.Decapoda.Lithodidae.
+103       1.2.3.1.3.1.                  Animalia.Arthropoda.Malacostraca.Decapoda.Lithodidae.Lopholithodes.
+104       1.2.3.1.3.1.1.                Animalia.Arthropoda.Malacostraca.Decapoda.Lithodidae.Lopholithodes.Lopholithodes Mandtii.
+105       1.2.3.2.                      Animalia.Arthropoda.Malacostraca.Isopoda.
+106       1.2.3.2.1.                    Animalia.Arthropoda.Malacostraca.Isopoda.Armadillidiidae.
+107       1.2.3.2.1.1.                  Animalia.Arthropoda.Malacostraca.Isopoda.Armadillidiidae.Armadillidium.
+108       1.2.3.2.1.1.1.                Animalia.Arthropoda.Malacostraca.Isopoda.Armadillidiidae.Armadillidium.Armadillidium vulgare.
+109       1.2.4.                        Animalia.Arthropoda.Mammalia.
+110       1.2.4.1.                      Animalia.Arthropoda.Mammalia.Carnivora.
+111       1.2.4.1.1.                    Animalia.Arthropoda.Mammalia.Carnivora.Canidae.
+112       1.2.4.1.1.1.                  Animalia.Arthropoda.Mammalia.Carnivora.Canidae.Canis.
+113       1.2.4.1.1.1.1.                Animalia.Arthropoda.Mammalia.Carnivora.Canidae.Canis.Canis lupus.
+114       1.3.                          Animalia.Chordata.
+115       1.3.1.                        Animalia.Chordata.Actinopterygii.
+116       1.3.1.1.                      Animalia.Chordata.Actinopterygii.Acipenseriformes.
+117       1.3.1.1.1.                    Animalia.Chordata.Actinopterygii.Acipenseriformes.Acipenseridae.
+118       1.3.1.1.1.1.                  Animalia.Chordata.Actinopterygii.Acipenseriformes.Acipenseridae.Huso.
+119       1.3.1.1.1.1.1.                Animalia.Chordata.Actinopterygii.Acipenseriformes.Acipenseridae.Huso.Huso huso.
+120       1.3.1.1.2.                    Animalia.Chordata.Actinopterygii.Acipenseriformes.Polyodontidae.
+121       1.3.1.1.2.1.                  Animalia.Chordata.Actinopterygii.Acipenseriformes.Polyodontidae.Psephurus.
+122       1.3.1.1.2.1.1.                Animalia.Chordata.Actinopterygii.Acipenseriformes.Polyodontidae.Psephurus.Psephurus gladius.
+123       1.3.1.2.                      Animalia.Chordata.Actinopterygii.Amiiformes.
+124       1.3.1.2.1.                    Animalia.Chordata.Actinopterygii.Amiiformes.Amiidae.
+125       1.3.1.2.1.1.                  Animalia.Chordata.Actinopterygii.Amiiformes.Amiidae.Amia.
+126       1.3.1.2.1.1.1.                Animalia.Chordata.Actinopterygii.Amiiformes.Amiidae.Amia.Amia calva.
+127       1.3.1.3.                      Animalia.Chordata.Actinopterygii.Batrachoidiformes.
+128       1.3.1.3.1.                    Animalia.Chordata.Actinopterygii.Batrachoidiformes.Batrachoididae.
+129       1.3.1.3.1.1.                  Animalia.Chordata.Actinopterygii.Batrachoidiformes.Batrachoididae.Opsanus.
+130       1.3.1.3.1.1.1.                Animalia.Chordata.Actinopterygii.Batrachoidiformes.Batrachoididae.Opsanus.Opsanus tau.
+131       1.3.1.4.                      Animalia.Chordata.Actinopterygii.Beryciformes.
+132       1.3.1.4.1.                    Animalia.Chordata.Actinopterygii.Beryciformes.Anoplogastridae.
+133       1.3.1.4.1.1.                  Animalia.Chordata.Actinopterygii.Beryciformes.Anoplogastridae.Anoplogaster.
+134       1.3.1.4.1.1.1.                Animalia.Chordata.Actinopterygii.Beryciformes.Anoplogastridae.Anoplogaster.Anoplogaster.
+135       1.3.1.4.2.                    Animalia.Chordata.Actinopterygii.Beryciformes.Holocentridae.
+136       1.3.1.4.2.1.                  Animalia.Chordata.Actinopterygii.Beryciformes.Holocentridae.Holocentrus.
+137       1.3.1.4.2.1.1.                Animalia.Chordata.Actinopterygii.Beryciformes.Holocentridae.Holocentrus.Holocentrus adscensionis.
+138       1.3.1.5.                      Animalia.Chordata.Actinopterygii.Characiformes.
+139       1.3.1.5.1.                    Animalia.Chordata.Actinopterygii.Characiformes.Characidae.
+140       1.3.1.5.1.1.                  Animalia.Chordata.Actinopterygii.Characiformes.Characidae.Paracheirodon.
+141       1.3.1.5.1.1.1.                Animalia.Chordata.Actinopterygii.Characiformes.Characidae.Paracheirodon.Paracheirodon Axelrodi.
+142       1.3.1.5.1.2.                  Animalia.Chordata.Actinopterygii.Characiformes.Characidae.Pristella.
+143       1.3.1.5.1.2.1.                Animalia.Chordata.Actinopterygii.Characiformes.Characidae.Pristella.Pristella maxillaris.
+144       1.3.1.6.                      Animalia.Chordata.Actinopterygii.Cypriniformes.
+145       1.3.1.6.1.                    Animalia.Chordata.Actinopterygii.Cypriniformes.Cyprinidae.
+146       1.3.1.6.1.1.                  Animalia.Chordata.Actinopterygii.Cypriniformes.Cyprinidae.Barbus.
+147       1.3.1.6.1.1.1.                Animalia.Chordata.Actinopterygii.Cypriniformes.Cyprinidae.Barbus.Barbus Barbus.
+148       1.3.1.6.1.2.                  Animalia.Chordata.Actinopterygii.Cypriniformes.Cyprinidae.Cyprinus.
+149       1.3.1.6.1.2.1.                Animalia.Chordata.Actinopterygii.Cypriniformes.Cyprinidae.Cyprinus.Cyprinus rubrofuscus "koi".
+150       1.3.1.7.                      Animalia.Chordata.Actinopterygii.Cyprinodontiformes.
+151       1.3.1.7.1.                    Animalia.Chordata.Actinopterygii.Cyprinodontiformes.Poeciliidae.
+152       1.3.1.7.1.1.                  Animalia.Chordata.Actinopterygii.Cyprinodontiformes.Poeciliidae.Poecilia.
+153       1.3.1.7.1.1.1.                Animalia.Chordata.Actinopterygii.Cyprinodontiformes.Poeciliidae.Poecilia.Poecilia.
+154       1.3.1.7.1.1.2.                Animalia.Chordata.Actinopterygii.Cyprinodontiformes.Poeciliidae.Poecilia.Poecilia reticulata.
+155       1.3.1.8.                      Animalia.Chordata.Actinopterygii.Esociformes.
+156       1.3.1.8.1.                    Animalia.Chordata.Actinopterygii.Esociformes.Esocidae.
+157       1.3.1.8.1.1.                  Animalia.Chordata.Actinopterygii.Esociformes.Esocidae.Esox.
+158       1.3.1.8.1.1.1.                Animalia.Chordata.Actinopterygii.Esociformes.Esocidae.Esox.Esox.
+159       1.3.1.9.                      Animalia.Chordata.Actinopterygii.Gadiformes.
+160       1.3.1.9.1.                    Animalia.Chordata.Actinopterygii.Gadiformes.Gadidae.
+161       1.3.1.9.1.1.                  Animalia.Chordata.Actinopterygii.Gadiformes.Gadidae.Melanogrammus.
+162       1.3.1.9.1.1.1.                Animalia.Chordata.Actinopterygii.Gadiformes.Gadidae.Melanogrammus. Melanogrammus aeglefinus.
+163       1.3.1.10.                     Animalia.Chordata.Actinopterygii.Gonorhynchiformes.
+164       1.3.1.10.1.                   Animalia.Chordata.Actinopterygii.Gonorhynchiformes.Chanidae.
+165       1.3.1.10.1.1.                 Animalia.Chordata.Actinopterygii.Gonorhynchiformes.Chanidae.Chanos.
+166       1.3.1.10.1.1.1.               Animalia.Chordata.Actinopterygii.Gonorhynchiformes.Chanidae.Chanos.Chanos chanos.
+167       1.3.1.11.                     Animalia.Chordata.Actinopterygii.Gymnotiformes.
+168       1.3.1.11.1.                   Animalia.Chordata.Actinopterygii.Gymnotiformes.Gymnotidae.
+169       1.3.1.11.1.1.                 Animalia.Chordata.Actinopterygii.Gymnotiformes.Gymnotidae.Electrophorus.
+170       1.3.1.11.1.1.1.               Animalia.Chordata.Actinopterygii.Gymnotiformes.Gymnotidae.Electrophorus.Electrophorus Electricus.
+171       1.3.1.12.                     Animalia.Chordata.Actinopterygii.Istiophoriformes.
+172       1.3.1.12.1.                   Animalia.Chordata.Actinopterygii.Istiophoriformes.Istiophordae.
+173       1.3.1.12.1.1.                 Animalia.Chordata.Actinopterygii.Istiophoriformes.Istiophordae.Istiompax.
+174       1.3.1.12.1.1.1.               Animalia.Chordata.Actinopterygii.Istiophoriformes.Istiophordae.Istiompax.Istiompax Indica.
+175       1.3.1.13.                     Animalia.Chordata.Actinopterygii.Lepisosteiformes.
+176       1.3.1.13.1.                   Animalia.Chordata.Actinopterygii.Lepisosteiformes.Lepisosteidae.
+177       1.3.1.13.1.1.                 Animalia.Chordata.Actinopterygii.Lepisosteiformes.Lepisosteidae.Atractosteus.
+178       1.3.1.13.1.1.1.               Animalia.Chordata.Actinopterygii.Lepisosteiformes.Lepisosteidae.Atractosteus.Atractosteus spatula.
+179       1.3.1.13.1.2.                 Animalia.Chordata.Actinopterygii.Lepisosteiformes.Lepisosteidae.Lepisosteus.
+180       1.3.1.13.1.2.1.               Animalia.Chordata.Actinopterygii.Lepisosteiformes.Lepisosteidae.Lepisosteus.Lepisosteus oculatus.
+181       1.3.1.13.1.2.2.               Animalia.Chordata.Actinopterygii.Lepisosteiformes.Lepisosteidae.Lepisosteus.Lepisosteus osseus.
+182       1.3.1.13.1.2.3.               Animalia.Chordata.Actinopterygii.Lepisosteiformes.Lepisosteidae.Lepisosteus.Lepisosteus platyrhincus.
+183       1.3.1.14.                     Animalia.Chordata.Actinopterygii.Perciformes.
+184       1.3.1.14.1.                   Animalia.Chordata.Actinopterygii.Perciformes.Anarhichadidae.
+185       1.3.1.14.1.1.                 Animalia.Chordata.Actinopterygii.Perciformes.Anarhichadidae.Anarrhichthys.
+186       1.3.1.14.1.1.1.               Animalia.Chordata.Actinopterygii.Perciformes.Anarhichadidae.Anarrhichthys.Anarrhichthys ocellatus.
+187       1.3.1.14.2.                   Animalia.Chordata.Actinopterygii.Perciformes.Cichlidae.
+188       1.3.1.14.2.1.                 Animalia.Chordata.Actinopterygii.Perciformes.Cichlidae.Astronotus.
+189       1.3.1.14.2.1.1.               Animalia.Chordata.Actinopterygii.Perciformes.Cichlidae.Astronotus.Astronotus ocellatus.
+190       1.3.1.14.3.                   Animalia.Chordata.Actinopterygii.Perciformes.Latidae.
+191       1.3.1.14.3.1.                 Animalia.Chordata.Actinopterygii.Perciformes.Latidae.Lates.
+192       1.3.1.14.3.1.1.               Animalia.Chordata.Actinopterygii.Perciformes.Latidae.Lates.Lates calcarifer.
+193       1.3.1.14.4.                   Animalia.Chordata.Actinopterygii.Perciformes.Osphronemidae.
+194       1.3.1.14.4.1.                 Animalia.Chordata.Actinopterygii.Perciformes.Osphronemidae.Betta.
+195       1.3.1.14.4.1.1.               Animalia.Chordata.Actinopterygii.Perciformes.Osphronemidae.Betta.Betta splendens.
+196       1.3.1.14.5.                   Animalia.Chordata.Actinopterygii.Perciformes.Percidae.
+197       1.3.1.14.5.1.                 Animalia.Chordata.Actinopterygii.Perciformes.Percidae.Sander.
+198       1.3.1.14.5.1.1.               Animalia.Chordata.Actinopterygii.Perciformes.Percidae.Sander.Sander vitreus.
+199       1.3.1.14.6.                   Animalia.Chordata.Actinopterygii.Perciformes.Sphyraenidae.
+200       1.3.1.14.6.1.                 Animalia.Chordata.Actinopterygii.Perciformes.Sphyraenidae.Sphyraena.
+201       1.3.1.14.6.1.1.               Animalia.Chordata.Actinopterygii.Perciformes.Sphyraenidae.Sphyraena.Sphyraena.
+202       1.3.1.15.                     Animalia.Chordata.Actinopterygii.Pleuronectiformes.
+203       1.3.1.15.1.                   Animalia.Chordata.Actinopterygii.Pleuronectiformes.Paralichthyidae.
+204       1.3.1.15.1.1.                 Animalia.Chordata.Actinopterygii.Pleuronectiformes.Paralichthyidae.Paralichthys.
+205       1.3.1.15.1.1.1.               Animalia.Chordata.Actinopterygii.Pleuronectiformes.Paralichthyidae.Paralichthys.Paralichthys.
+206       1.3.1.16.                     Animalia.Chordata.Actinopterygii.Scombriformes.
+207       1.3.1.16.1.                   Animalia.Chordata.Actinopterygii.Scombriformes.Scombridae.
+208       1.3.1.16.1.1.                 Animalia.Chordata.Actinopterygii.Scombriformes.Scombridae.Katsuwonus.
+209       1.3.1.16.1.1.1.               Animalia.Chordata.Actinopterygii.Scombriformes.Scombridae.Katsuwonus.Katsuwonus pelamis.
+210       1.3.1.16.1.2.                 Animalia.Chordata.Actinopterygii.Scombriformes.Scombridae.Sarda.
+211       1.3.1.16.1.2.1.               Animalia.Chordata.Actinopterygii.Scombriformes.Scombridae.Sarda.Sarda.
+212       1.3.1.16.1.3.                 Animalia.Chordata.Actinopterygii.Scombriformes.Scombridae.Thunnus.
+213       1.3.1.16.1.3.1.               Animalia.Chordata.Actinopterygii.Scombriformes.Scombridae.Thunnus.Thunnus alalunga.
+214       1.3.1.16.1.3.2.               Animalia.Chordata.Actinopterygii.Scombriformes.Scombridae.Thunnus.Thunnus albacares.
+215       1.3.1.17.                     Animalia.Chordata.Actinopterygii.Scorpaeniformes.
+216       1.3.1.17.1.                   Animalia.Chordata.Actinopterygii.Scorpaeniformes.Psychrolutidae.
+217       1.3.1.17.1.1.                 Animalia.Chordata.Actinopterygii.Scorpaeniformes.Psychrolutidae.Psychrolutes.
+218       1.3.1.17.1.1.1.               Animalia.Chordata.Actinopterygii.Scorpaeniformes.Psychrolutidae.Psychrolutes.Psychrolutes marcidus.
+219       1.3.1.17.2.                   Animalia.Chordata.Actinopterygii.Scorpaeniformes.Scorpaenidae.
+220       1.3.1.17.2.1.                 Animalia.Chordata.Actinopterygii.Scorpaeniformes.Scorpaenidae.Pterois.
+221       1.3.1.17.2.1.1.               Animalia.Chordata.Actinopterygii.Scorpaeniformes.Scorpaenidae.Pterois.Pterois volitans.
+222       1.3.1.18.                     Animalia.Chordata.Actinopterygii.Siluriformes.
+223       1.3.1.18.1.                   Animalia.Chordata.Actinopterygii.Siluriformes.Ariidae.
+224       1.3.1.18.1.1.                 Animalia.Chordata.Actinopterygii.Siluriformes.Ariidae.Ariopsis.
+225       1.3.1.18.1.1.1.               Animalia.Chordata.Actinopterygii.Siluriformes.Ariidae.Ariopsis.Ariopsis felis.
+226       1.3.1.18.2.                   Animalia.Chordata.Actinopterygii.Siluriformes.Clariidae.
+227       1.3.1.18.2.1.                 Animalia.Chordata.Actinopterygii.Siluriformes.Clariidae.Clarias.
+228       1.3.1.18.2.1.1.               Animalia.Chordata.Actinopterygii.Siluriformes.Clariidae.Clarias.Clarias batrachus.
+229       1.3.1.18.3.                   Animalia.Chordata.Actinopterygii.Siluriformes.Loricariidae.
+230       1.3.1.18.3.1.                 Animalia.Chordata.Actinopterygii.Siluriformes.Loricariidae.Hypancistrus.
+231       1.3.1.18.3.1.1.               Animalia.Chordata.Actinopterygii.Siluriformes.Loricariidae.Hypancistrus.Hypancistrus zebra.
+232       1.3.1.18.4.                   Animalia.Chordata.Actinopterygii.Siluriformes.Pangasiidae.
+233       1.3.1.18.4.1.                 Animalia.Chordata.Actinopterygii.Siluriformes.Pangasiidae.Pangasianodon.
+234       1.3.1.18.4.1.1.               Animalia.Chordata.Actinopterygii.Siluriformes.Pangasiidae.Pangasianodon.Pangasianodon gigas.
+235       1.3.1.18.4.1.2.               Animalia.Chordata.Actinopterygii.Siluriformes.Pangasiidae.Pangasianodon.Pangasianodon hypophthalmus.
+236       1.3.1.19.                     Animalia.Chordata.Actinopterygii.Syngnathiformes.
+237       1.3.1.19.1.                   Animalia.Chordata.Actinopterygii.Syngnathiformes.Syngnathidae.
+238       1.3.1.19.1.1.                 Animalia.Chordata.Actinopterygii.Syngnathiformes.Syngnathidae.Hippocampus.
+239       1.3.1.19.1.1.1.               Animalia.Chordata.Actinopterygii.Syngnathiformes.Syngnathidae.Hippocampus.Hippocampus.
+240       1.3.1.19.1.2.                 Animalia.Chordata.Actinopterygii.Syngnathiformes.Syngnathidae.Phycodurus.
+241       1.3.1.19.1.2.1.               Animalia.Chordata.Actinopterygii.Syngnathiformes.Syngnathidae.Phycodurus.Phycodurus eques.
+242       1.3.2.                        Animalia.Chordata.Amphibia.
+243       1.3.2.1.                      Animalia.Chordata.Amphibia.Anura.
+244       1.3.2.1.1.                    Animalia.Chordata.Amphibia.Anura.Bombinatoridae.
+245       1.3.2.1.1.1.                  Animalia.Chordata.Amphibia.Anura.Bombinatoridae.Bombina.
+246       1.3.2.1.1.1.1.                Animalia.Chordata.Amphibia.Anura.Bombinatoridae.Bombina.Bombina.
+247       1.3.2.1.2.                    Animalia.Chordata.Amphibia.Anura.Brevicipitidae.
+248       1.3.2.1.2.1.                  Animalia.Chordata.Amphibia.Anura.Brevicipitidae.Breviceps.
+249       1.3.2.1.2.1.1.                Animalia.Chordata.Amphibia.Anura.Brevicipitidae.Breviceps.Breviceps macrops.
+250       1.3.2.1.3.                    Animalia.Chordata.Amphibia.Anura.Bufonidae.
+251       1.3.2.1.3.1.                  Animalia.Chordata.Amphibia.Anura.Bufonidae.Anaxyrus.
+252       1.3.2.1.3.1.1.                Animalia.Chordata.Amphibia.Anura.Bufonidae.Anaxyrus.Anaxyrus Baxteri.
+253       1.3.2.1.3.1.2.                Animalia.Chordata.Amphibia.Anura.Bufonidae.Anaxyrus.Anaxyrus americanus.
+254       1.3.2.1.3.2.                  Animalia.Chordata.Amphibia.Anura.Bufonidae.Bufo.
+255       1.3.2.1.3.2.1.                Animalia.Chordata.Amphibia.Anura.Bufonidae.Bufo.Bufo Bufo.
+256       1.3.2.1.3.2.2.                Animalia.Chordata.Amphibia.Anura.Bufonidae.Bufo.Bufo Marinus.
+257       1.3.2.1.3.3.                  Animalia.Chordata.Amphibia.Anura.Bufonidae.Nectophryne.
+258       1.3.2.1.3.3.1.                Animalia.Chordata.Amphibia.Anura.Bufonidae.Nectophryne.Nectophryne afra.
+259       1.3.2.1.4.                    Animalia.Chordata.Amphibia.Anura.Conrauidae.
+260       1.3.2.1.4.1.                  Animalia.Chordata.Amphibia.Anura.Conrauidae.Conraua.
+261       1.3.2.1.4.1.1.                Animalia.Chordata.Amphibia.Anura.Conrauidae.Conraua.Conraua goliath.
+262       1.3.2.1.5.                    Animalia.Chordata.Amphibia.Anura.Hylidae.
+263       1.3.2.1.5.1.                  Animalia.Chordata.Amphibia.Anura.Hylidae.Hyla.
+264       1.3.2.1.5.1.1.                Animalia.Chordata.Amphibia.Anura.Hylidae.Hyla.Hyla versicolor.
+265       1.3.2.1.5.2.                  Animalia.Chordata.Amphibia.Anura.Hylidae.Litoria.
+266       1.3.2.1.5.2.1.                Animalia.Chordata.Amphibia.Anura.Hylidae.Litoria.Litoria nasuta.
+267       1.3.2.1.6.                    Animalia.Chordata.Amphibia.Anura.Leptodactylidae.
+268       1.3.2.1.6.1.                  Animalia.Chordata.Amphibia.Anura.Leptodactylidae.Ceratophrys.
+269       1.3.2.1.6.1.1.                Animalia.Chordata.Amphibia.Anura.Leptodactylidae.Ceratophrys.Ceratophrys Ornata.
+270       1.3.2.1.6.2.                  Animalia.Chordata.Amphibia.Anura.Leptodactylidae.Eleutherodactylus.
+271       1.3.2.1.6.2.1.                Animalia.Chordata.Amphibia.Anura.Leptodactylidae.Eleutherodactylus.Eleutherodactylus iberia.
+272       1.3.2.1.7.                    Animalia.Chordata.Amphibia.Anura.Pipidae.
+273       1.3.2.1.7.1.                  Animalia.Chordata.Amphibia.Anura.Pipidae.Xenopus.
+274       1.3.2.1.7.1.1.                Animalia.Chordata.Amphibia.Anura.Pipidae.Xenopus.Xenopus laevis.
+275       1.3.2.1.8.                    Animalia.Chordata.Amphibia.Anura.Pyxicephalidae.
+276       1.3.2.1.8.1.                  Animalia.Chordata.Amphibia.Anura.Pyxicephalidae.Pyxicephalus.
+277       1.3.2.1.8.1.1.                Animalia.Chordata.Amphibia.Anura.Pyxicephalidae.Pyxicephalus.Pyxicephalus adspersus.
+278       1.3.2.1.9.                    Animalia.Chordata.Amphibia.Anura.Ranidae.
+279       1.3.2.1.9.1.                  Animalia.Chordata.Amphibia.Anura.Ranidae.Lithobates.
+280       1.3.2.1.9.1.1.                Animalia.Chordata.Amphibia.Anura.Ranidae.Lithobates.Lithobates catesbeianus.
+281       1.3.2.1.9.1.2.                Animalia.Chordata.Amphibia.Anura.Ranidae.Lithobates.Lithobates clamitans.
+282       1.3.2.1.9.1.3.                Animalia.Chordata.Amphibia.Anura.Ranidae.Lithobates.Lithobates sylvaticus.
+283       1.3.2.1.9.2.                  Animalia.Chordata.Amphibia.Anura.Ranidae.Pelophylax.
+284       1.3.2.1.9.2.1.                Animalia.Chordata.Amphibia.Anura.Ranidae.Pelophylax.Pelophylax kl. esculentus.
+285       1.3.2.1.9.2.2.                Animalia.Chordata.Amphibia.Anura.Ranidae.Pelophylax.Pelophylax lessonae.
+286       1.3.2.1.9.2.3.                Animalia.Chordata.Amphibia.Anura.Ranidae.Pelophylax.Pelophylax ridibundus.
+287       1.3.2.1.9.3.                  Animalia.Chordata.Amphibia.Anura.Ranidae.Rana.
+288       1.3.2.1.9.3.1.                Animalia.Chordata.Amphibia.Anura.Ranidae.Rana.Rana temporaria.
+289       1.3.2.1.10.                   Animalia.Chordata.Amphibia.Anura.Telmatobiidae.
+290       1.3.2.1.10.1.                 Animalia.Chordata.Amphibia.Anura.Telmatobiidae.Telmatobius.
+291       1.3.2.1.10.1.1.               Animalia.Chordata.Amphibia.Anura.Telmatobiidae.Telmatobius.Telmatobius culeus.
+292       1.3.2.2.                      Animalia.Chordata.Amphibia.Caudata.
+293       1.3.2.2.1.                    Animalia.Chordata.Amphibia.Caudata.Ambystomatidae.
+294       1.3.2.2.1.1.                  Animalia.Chordata.Amphibia.Caudata.Ambystomatidae.Ambystoma.
+295       1.3.2.2.1.1.1.                Animalia.Chordata.Amphibia.Caudata.Ambystomatidae.Ambystoma.Ambystoma mexicanum.
+296       1.3.2.2.1.1.2.                Animalia.Chordata.Amphibia.Caudata.Ambystomatidae.Ambystoma.Ambystoma tigrinum.
+297       1.3.2.2.2.                    Animalia.Chordata.Amphibia.Caudata.Proteidae.
+298       1.3.2.2.2.1.                  Animalia.Chordata.Amphibia.Caudata.Proteidae.Proteus.
+299       1.3.2.2.2.1.1.                Animalia.Chordata.Amphibia.Caudata.Proteidae.Proteus.Proteus anguinus.
+300       1.3.2.3.                      Animalia.Chordata.Amphibia.Gymnophiona.
+301       1.3.2.3.1.                    Animalia.Chordata.Amphibia.Gymnophiona.Caecilidae.
+302       1.3.2.3.1.1.                  Animalia.Chordata.Amphibia.Gymnophiona.Caecilidae.Caecilia Linnaeus.
+303       1.3.2.3.1.1.1.                Animalia.Chordata.Amphibia.Gymnophiona.Caecilidae.Caecilia Linnaeus.Apoda.
+304       1.3.2.4.                      Animalia.Chordata.Amphibia.Mesobatrachia.
+305       1.3.2.4.1.                    Animalia.Chordata.Amphibia.Mesobatrachia.Pelobatidae.
+306       1.3.2.4.1.1.                  Animalia.Chordata.Amphibia.Mesobatrachia.Pelobatidae.Pelobates.
+307       1.3.2.4.1.1.1.                Animalia.Chordata.Amphibia.Mesobatrachia.Pelobatidae.Pelobates.Mesobatrachia.
+308       1.3.2.5.                      Animalia.Chordata.Amphibia.Urodela.
+309       1.3.2.5.1.                    Animalia.Chordata.Amphibia.Urodela.Proteidae.
+310       1.3.2.5.1.1.                  Animalia.Chordata.Amphibia.Urodela.Proteidae.Necturus.
+311       1.3.2.5.1.1.1.                Animalia.Chordata.Amphibia.Urodela.Proteidae.Necturus.Necturus maculosus.
+312       1.3.3.                        Animalia.Chordata.Aves.
+313       1.3.3.1.                      Animalia.Chordata.Aves.Accipitriformes.
+314       1.3.3.1.1.                    Animalia.Chordata.Aves.Accipitriformes.Accipitridae.
+315       1.3.3.1.1.1.                  Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Buteo.
+316       1.3.3.1.1.1.1.                Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Buteo.Buteo buteo.
+317       1.3.3.1.1.1.2.                Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Buteo.Buteo regalis.
+318       1.3.3.1.1.2.                  Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Haliaeetus.
+319       1.3.3.1.1.2.1.                Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Haliaeetus.Haliaeetus albicilla.
+320       1.3.3.1.1.3.                  Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Haliaeetus Savigny.
+321       1.3.3.1.1.3.1.                Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Haliaeetus Savigny.Haliaeetus.
+322       1.3.3.1.1.4.                  Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Harpia.
+323       1.3.3.1.1.4.1.                Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Harpia.Harpia harpyja.
+324       1.3.3.1.1.5.                  Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Ictinia.
+325       1.3.3.1.1.5.1.                Animalia.Chordata.Aves.Accipitriformes.Accipitridae.Ictinia.Ictinia mississippiensis.
+326       1.3.3.2.                      Animalia.Chordata.Aves.Anseriformes.
+327       1.3.3.2.1.                    Animalia.Chordata.Aves.Anseriformes.Anatidae.
+328       1.3.3.2.1.1.                  Animalia.Chordata.Aves.Anseriformes.Anatidae.Anas.
+329       1.3.3.2.1.1.1.                Animalia.Chordata.Aves.Anseriformes.Anatidae.Anas.Anas platyrhynchos.
+330       1.3.3.2.1.2.                  Animalia.Chordata.Aves.Anseriformes.Anatidae.Anser.
+331       1.3.3.2.1.2.1.                Animalia.Chordata.Aves.Anseriformes.Anatidae.Anser.Anser cygnoides domesticus.
+332       1.3.3.2.1.3.                  Animalia.Chordata.Aves.Anseriformes.Anatidae.Cygnus.
+333       1.3.3.2.1.3.1.                Animalia.Chordata.Aves.Anseriformes.Anatidae.Cygnus.Cygnus atratus.
+334       1.3.3.3.                      Animalia.Chordata.Aves.Apodiformes.
+335       1.3.3.3.1.                    Animalia.Chordata.Aves.Apodiformes.Trochilidae.
+336       1.3.3.3.1.1.                  Animalia.Chordata.Aves.Apodiformes.Trochilidae.Archilochus.
+337       1.3.3.3.1.1.1.                Animalia.Chordata.Aves.Apodiformes.Trochilidae.Archilochus.Archilochus colubris.
+338       1.3.3.4.                      Animalia.Chordata.Aves.Casuariiformes.
+339       1.3.3.4.1.                    Animalia.Chordata.Aves.Casuariiformes.Casuariidae.
+340       1.3.3.4.1.1.                  Animalia.Chordata.Aves.Casuariiformes.Casuariidae.Casuarius.
+341       1.3.3.4.1.1.1.                Animalia.Chordata.Aves.Casuariiformes.Casuariidae.Casuarius.Casuarius.
+342       1.3.3.4.1.2.                  Animalia.Chordata.Aves.Casuariiformes.Casuariidae.Dromaius.
+343       1.3.3.4.1.2.1.                Animalia.Chordata.Aves.Casuariiformes.Casuariidae.Dromaius.Dromaius novaehollandiae.
+344       1.3.3.5.                      Animalia.Chordata.Aves.Cathartiformes.
+345       1.3.3.5.1.                    Animalia.Chordata.Aves.Cathartiformes.Cathartidae.
+346       1.3.3.5.1.1.                  Animalia.Chordata.Aves.Cathartiformes.Cathartidae.Cathartes.
+347       1.3.3.5.1.1.1.                Animalia.Chordata.Aves.Cathartiformes.Cathartidae.Cathartes.Cathartes aura.
+348       1.3.3.6.                      Animalia.Chordata.Aves.Charadriiformes.
+349       1.3.3.6.1.                    Animalia.Chordata.Aves.Charadriiformes.Alcidae.
+350       1.3.3.6.1.1.                  Animalia.Chordata.Aves.Charadriiformes.Alcidae.Fratercula.
+351       1.3.3.6.1.1.1.                Animalia.Chordata.Aves.Charadriiformes.Alcidae.Fratercula.Fratercula arctica.
+352       1.3.3.6.2.                    Animalia.Chordata.Aves.Charadriiformes.Jacanidae.
+353       1.3.3.6.2.1.                  Animalia.Chordata.Aves.Charadriiformes.Jacanidae.Jacana Brisson.
+354       1.3.3.6.2.1.1.                Animalia.Chordata.Aves.Charadriiformes.Jacanidae.Jacana Brisson.Jacanidae.
+355       1.3.3.6.3.                    Animalia.Chordata.Aves.Charadriiformes.Recurvirostridae.
+356       1.3.3.6.3.1.                  Animalia.Chordata.Aves.Charadriiformes.Recurvirostridae.Recurvirostra.
+357       1.3.3.6.3.1.1.                Animalia.Chordata.Aves.Charadriiformes.Recurvirostridae.Recurvirostra.Recurvirostra.
+358       1.3.3.7.                      Animalia.Chordata.Aves.Ciconiiformes.
+359       1.3.3.7.1.                    Animalia.Chordata.Aves.Ciconiiformes.Ciconiidae.
+360       1.3.3.7.1.1.                  Animalia.Chordata.Aves.Ciconiiformes.Ciconiidae.Leptoptilos.
+361       1.3.3.7.1.1.1.                Animalia.Chordata.Aves.Ciconiiformes.Ciconiidae.Leptoptilos.Leptoptilos crumenifer.
+362       1.3.3.7.2.                    Animalia.Chordata.Aves.Ciconiiformes.Threskiornithidae.
+363       1.3.3.7.2.1.                  Animalia.Chordata.Aves.Ciconiiformes.Threskiornithidae.Ajaja.
+364       1.3.3.7.2.1.1.                Animalia.Chordata.Aves.Ciconiiformes.Threskiornithidae.Ajaja.Ajaja ajaja.
+365       1.3.3.8.                      Animalia.Chordata.Aves.Columbiformes.
+366       1.3.3.8.1.                    Animalia.Chordata.Aves.Columbiformes.Columbidae.
+367       1.3.3.8.1.1.                  Animalia.Chordata.Aves.Columbiformes.Columbidae.Raphus.
+368       1.3.3.8.1.1.1.                Animalia.Chordata.Aves.Columbiformes.Columbidae.Raphus.Raphus cucullatus.
+369       1.3.3.8.1.2.                  Animalia.Chordata.Aves.Columbiformes.Columbidae.Zenaida.
+370       1.3.3.8.1.2.1.                Animalia.Chordata.Aves.Columbiformes.Columbidae.Zenaida.Zenaida macroura.
+371       1.3.3.9.                      Animalia.Chordata.Aves.Coraciiformes.
+372       1.3.3.9.1.                    Animalia.Chordata.Aves.Coraciiformes.Meropidae.
+373       1.3.3.9.1.1.                  Animalia.Chordata.Aves.Coraciiformes.Meropidae.Merops.
+374       1.3.3.9.1.1.1.                Animalia.Chordata.Aves.Coraciiformes.Meropidae.Merops.Merops orientalis.
+375       1.3.3.10.                     Animalia.Chordata.Aves.Cuculiformes.
+376       1.3.3.10.1.                   Animalia.Chordata.Aves.Cuculiformes.Cuculidae.
+377       1.3.3.10.1.1.                 Animalia.Chordata.Aves.Cuculiformes.Cuculidae.Cuculus.
+378       1.3.3.10.1.1.1.               Animalia.Chordata.Aves.Cuculiformes.Cuculidae.Cuculus.Cuculidae.
+379       1.3.3.11.                     Animalia.Chordata.Aves.Falconiformes.
+380       1.3.3.11.1.                   Animalia.Chordata.Aves.Falconiformes.Falconidae.
+381       1.3.3.11.1.1.                 Animalia.Chordata.Aves.Falconiformes.Falconidae.Falco.
+382       1.3.3.11.1.1.1.               Animalia.Chordata.Aves.Falconiformes.Falconidae.Falco.Falco peregrinus.
+383       1.3.3.12.                     Animalia.Chordata.Aves.Galliformes.
+384       1.3.3.12.1.                   Animalia.Chordata.Aves.Galliformes.Phasianidae.
+385       1.3.3.12.1.1.                 Animalia.Chordata.Aves.Galliformes.Phasianidae.Coturnix.
+386       1.3.3.12.1.1.1.               Animalia.Chordata.Aves.Galliformes.Phasianidae.Coturnix.Coturnix Coturnix.
+387       1.3.3.12.1.2.                 Animalia.Chordata.Aves.Galliformes.Phasianidae.Gallus.
+388       1.3.3.12.1.2.1.               Animalia.Chordata.Aves.Galliformes.Phasianidae.Gallus.Gallus gallus.
+389       1.3.3.12.1.3.                 Animalia.Chordata.Aves.Galliformes.Phasianidae.Meleagris.
+390       1.3.3.12.1.3.1.               Animalia.Chordata.Aves.Galliformes.Phasianidae.Meleagris.Meleagris.
+391       1.3.3.12.1.4.                 Animalia.Chordata.Aves.Galliformes.Phasianidae.Phasianus.
+392       1.3.3.12.1.4.1.               Animalia.Chordata.Aves.Galliformes.Phasianidae.Phasianus.Phasianus Colchicus.
+393       1.3.3.12.1.5.                 Animalia.Chordata.Aves.Galliformes.Phasianidae.Tetraoninae.
+394       1.3.3.12.1.5.1.               Animalia.Chordata.Aves.Galliformes.Phasianidae.Tetraoninae.Tetraoninae.
+395       1.3.3.13.                     Animalia.Chordata.Aves.Gaviiformes.
+396       1.3.3.13.1.                   Animalia.Chordata.Aves.Gaviiformes.Gaviidae.
+397       1.3.3.13.1.1.                 Animalia.Chordata.Aves.Gaviiformes.Gaviidae.Gavia.
+398       1.3.3.13.1.1.1.               Animalia.Chordata.Aves.Gaviiformes.Gaviidae.Gavia.Gavia Immer.
+399       1.3.3.14.                     Animalia.Chordata.Aves.Gruiformes.
+400       1.3.3.14.1.                   Animalia.Chordata.Aves.Gruiformes.Gruidae.
+401       1.3.3.14.1.1.                 Animalia.Chordata.Aves.Gruiformes.Gruidae.Grus.
+402       1.3.3.14.1.1.1.               Animalia.Chordata.Aves.Gruiformes.Gruidae.Grus.Grus americana.
+403       1.3.3.14.2.                   Animalia.Chordata.Aves.Gruiformes.Rallidae.
+404       1.3.3.14.2.1.                 Animalia.Chordata.Aves.Gruiformes.Rallidae.Gallinula.
+405       1.3.3.14.2.1.1.               Animalia.Chordata.Aves.Gruiformes.Rallidae.Gallinula.Gallinula.
+406       1.3.3.15.                     Animalia.Chordata.Aves.Passeriforme.
+407       1.3.3.15.1.                   Animalia.Chordata.Aves.Passeriforme.Cardinalidae.
+408       1.3.3.15.1.1.                 Animalia.Chordata.Aves.Passeriforme.Cardinalidae.Passerina.
+409       1.3.3.15.1.1.1.               Animalia.Chordata.Aves.Passeriforme.Cardinalidae.Passerina.Passerina caerulea.
+410       1.3.3.16.                     Animalia.Chordata.Aves.Passeriformes.
+411       1.3.3.16.1.                   Animalia.Chordata.Aves.Passeriformes.Cardinalidae.
+412       1.3.3.16.1.1.                 Animalia.Chordata.Aves.Passeriformes.Cardinalidae.Cardinalis.
+413       1.3.3.16.1.1.1.               Animalia.Chordata.Aves.Passeriformes.Cardinalidae.Cardinalis.Cardinalis cardinalis.
+414       1.3.3.16.2.                   Animalia.Chordata.Aves.Passeriformes.Carinalidae.
+415       1.3.3.16.2.1.                 Animalia.Chordata.Aves.Passeriformes.Carinalidae.Pheucticus.
+416       1.3.3.16.2.1.1.               Animalia.Chordata.Aves.Passeriformes.Carinalidae.Pheucticus.Pheucticus ludovicianus.
+417       1.3.3.16.3.                   Animalia.Chordata.Aves.Passeriformes.Cettiidae.
+418       1.3.3.16.3.1.                 Animalia.Chordata.Aves.Passeriformes.Cettiidae.Cettia.
+419       1.3.3.16.3.1.1.               Animalia.Chordata.Aves.Passeriformes.Cettiidae.Cettia.Cettia diphone.
+420       1.3.3.16.4.                   Animalia.Chordata.Aves.Passeriformes.Corvidae.
+421       1.3.3.16.4.1.                 Animalia.Chordata.Aves.Passeriformes.Corvidae.Corvus.
+422       1.3.3.16.4.1.1.               Animalia.Chordata.Aves.Passeriformes.Corvidae.Corvus.Corvus Hawaiiensis.
+423       1.3.3.16.4.1.2.               Animalia.Chordata.Aves.Passeriformes.Corvidae.Corvus.Corvus corax.
+424       1.3.3.16.4.2.                 Animalia.Chordata.Aves.Passeriformes.Corvidae.Cyanocitta.
+425       1.3.3.16.4.2.1.               Animalia.Chordata.Aves.Passeriformes.Corvidae.Cyanocitta.Cyanocitta cristata.
+426       1.3.3.16.4.3.                 Animalia.Chordata.Aves.Passeriformes.Corvidae.Pica.
+427       1.3.3.16.4.3.1.               Animalia.Chordata.Aves.Passeriformes.Corvidae.Pica.Pica Pica.
+428       1.3.3.16.5.                   Animalia.Chordata.Aves.Passeriformes.Cotingidae.
+429       1.3.3.16.5.1.                 Animalia.Chordata.Aves.Passeriformes.Cotingidae.Cephalopterus.
+430       1.3.3.16.5.1.1.               Animalia.Chordata.Aves.Passeriformes.Cotingidae.Cephalopterus.Cephalopterus.
+431       1.3.3.16.6.                   Animalia.Chordata.Aves.Passeriformes.Estrildidae.
+432       1.3.3.16.6.1.                 Animalia.Chordata.Aves.Passeriformes.Estrildidae.Erythrura.
+433       1.3.3.16.6.1.1.               Animalia.Chordata.Aves.Passeriformes.Estrildidae.Erythrura.Erythrura gouldiae.
+434       1.3.3.16.6.2.                 Animalia.Chordata.Aves.Passeriformes.Estrildidae.Taeniopygia.
+435       1.3.3.16.6.2.1.               Animalia.Chordata.Aves.Passeriformes.Estrildidae.Taeniopygia.Taeniopygia guttata.
+436       1.3.3.16.7.                   Animalia.Chordata.Aves.Passeriformes.Fringillidae.
+437       1.3.3.16.7.1.                 Animalia.Chordata.Aves.Passeriformes.Fringillidae.Haemorhous.
+438       1.3.3.16.7.1.1.               Animalia.Chordata.Aves.Passeriformes.Fringillidae.Haemorhous.Haemorhous mexicanus.
+439       1.3.3.16.7.1.2.               Animalia.Chordata.Aves.Passeriformes.Fringillidae.Haemorhous.Haemorhous purpureus.
+440       1.3.3.16.8.                   Animalia.Chordata.Aves.Passeriformes.Hirundinidae.
+441       1.3.3.16.8.1.                 Animalia.Chordata.Aves.Passeriformes.Hirundinidae.Hirundo.
+442       1.3.3.16.8.1.1.               Animalia.Chordata.Aves.Passeriformes.Hirundinidae.Hirundo.Hirundo rustica.
+443       1.3.3.16.8.2.                 Animalia.Chordata.Aves.Passeriformes.Hirundinidae.Tachycineta.
+444       1.3.3.16.8.2.1.               Animalia.Chordata.Aves.Passeriformes.Hirundinidae.Tachycineta.Tachycineta bicolor.
+445       1.3.3.16.9.                   Animalia.Chordata.Aves.Passeriformes.Icteridae.
+446       1.3.3.16.9.1.                 Animalia.Chordata.Aves.Passeriformes.Icteridae.Agelaius.
+447       1.3.3.16.9.1.1.               Animalia.Chordata.Aves.Passeriformes.Icteridae.Agelaius.Agelaius phoeniceus.
+448       1.3.3.16.9.2.                 Animalia.Chordata.Aves.Passeriformes.Icteridae.Dolichonyx.
+449       1.3.3.16.9.2.1.               Animalia.Chordata.Aves.Passeriformes.Icteridae.Dolichonyx.Dolichonyx oryzivorus.
+450       1.3.3.16.10.                  Animalia.Chordata.Aves.Passeriformes.Oriolidae.
+451       1.3.3.16.10.1.                Animalia.Chordata.Aves.Passeriformes.Oriolidae.Oriolus.
+452       1.3.3.16.10.1.1.              Animalia.Chordata.Aves.Passeriformes.Oriolidae.Oriolus.Oriolus oriolus.
+453       1.3.3.16.11.                  Animalia.Chordata.Aves.Passeriformes.Passerelidae.
+454       1.3.3.16.11.1.                Animalia.Chordata.Aves.Passeriformes.Passerelidae.Melospiza.
+455       1.3.3.16.11.1.1.              Animalia.Chordata.Aves.Passeriformes.Passerelidae.Melospiza.Melospiza melodia.
+456       1.3.3.16.12.                  Animalia.Chordata.Aves.Passeriformes.Phylloscopidae.
+457       1.3.3.16.12.1.                Animalia.Chordata.Aves.Passeriformes.Phylloscopidae.Phylloscopus.
+458       1.3.3.16.12.1.1.              Animalia.Chordata.Aves.Passeriformes.Phylloscopidae.Phylloscopus.Phylloscopus trochilus.
+459       1.3.3.16.13.                  Animalia.Chordata.Aves.Passeriformes.Troglodytidae.
+460       1.3.3.16.13.1.                Animalia.Chordata.Aves.Passeriformes.Troglodytidae.Troglodytes.
+461       1.3.3.16.13.1.1.              Animalia.Chordata.Aves.Passeriformes.Troglodytidae.Troglodytes.Troglodytes aedon.
+462       1.3.3.16.14.                  Animalia.Chordata.Aves.Passeriformes.Turdidae.
+463       1.3.3.16.14.1.                Animalia.Chordata.Aves.Passeriformes.Turdidae.Sialia.
+464       1.3.3.16.14.1.1.              Animalia.Chordata.Aves.Passeriformes.Turdidae.Sialia.Sialia currucoides.
+465       1.3.3.16.14.1.2.              Animalia.Chordata.Aves.Passeriformes.Turdidae.Sialia.Sialia sialis.
+466       1.3.3.16.14.2.                Animalia.Chordata.Aves.Passeriformes.Turdidae.Turdus Linnaeus.
+467       1.3.3.16.14.2.1.              Animalia.Chordata.Aves.Passeriformes.Turdidae.Turdus Linnaeus.Turdus migratorius.
+468       1.3.3.16.15.                  Animalia.Chordata.Aves.Passeriformes.Tyrannidae.
+469       1.3.3.16.15.1.                Animalia.Chordata.Aves.Passeriformes.Tyrannidae.Myiarchus.
+470       1.3.3.16.15.1.1.              Animalia.Chordata.Aves.Passeriformes.Tyrannidae.Myiarchus.Myiarchus crinitus.
+471       1.3.3.16.15.2.                Animalia.Chordata.Aves.Passeriformes.Tyrannidae.Sayornis.
+472       1.3.3.16.15.2.1.              Animalia.Chordata.Aves.Passeriformes.Tyrannidae.Sayornis.Sayornis phoebe.
+473       1.3.3.17.                     Animalia.Chordata.Aves.Pelecaniformes.
+474       1.3.3.17.1.                   Animalia.Chordata.Aves.Pelecaniformes.Ardeidae.
+475       1.3.3.17.1.1.                 Animalia.Chordata.Aves.Pelecaniformes.Ardeidae.Ardea.
+476       1.3.3.17.1.1.1.               Animalia.Chordata.Aves.Pelecaniformes.Ardeidae.Ardea.Ardea herodias.
+477       1.3.3.17.2.                   Animalia.Chordata.Aves.Pelecaniformes.Balaenicipitidae.
+478       1.3.3.17.2.1.                 Animalia.Chordata.Aves.Pelecaniformes.Balaenicipitidae.Balaeniceps.
+479       1.3.3.17.2.1.1.               Animalia.Chordata.Aves.Pelecaniformes.Balaenicipitidae.Balaeniceps.Balaeniceps rex.
+480       1.3.3.17.3.                   Animalia.Chordata.Aves.Pelecaniformes.Fregatidae.
+481       1.3.3.17.3.1.                 Animalia.Chordata.Aves.Pelecaniformes.Fregatidae.Fregata.
+482       1.3.3.17.3.1.1.               Animalia.Chordata.Aves.Pelecaniformes.Fregatidae.Fregata.Fregata.
+483       1.3.3.18.                     Animalia.Chordata.Aves.Piciformes.
+484       1.3.3.18.1.                   Animalia.Chordata.Aves.Piciformes.Picidae.
+485       1.3.3.18.1.1.                 Animalia.Chordata.Aves.Piciformes.Picidae.Campephilus.
+486       1.3.3.18.1.1.1.               Animalia.Chordata.Aves.Piciformes.Picidae.Campephilus.Campephilus principalis.
+487       1.3.3.18.1.2.                 Animalia.Chordata.Aves.Piciformes.Picidae.Dryocopus.
+488       1.3.3.18.1.2.1.               Animalia.Chordata.Aves.Piciformes.Picidae.Dryocopus.Dryocopus pileatus.
+489       1.3.3.18.2.                   Animalia.Chordata.Aves.Piciformes.Ramphastidae.
+490       1.3.3.18.2.1.                 Animalia.Chordata.Aves.Piciformes.Ramphastidae.Ramphastos.
+491       1.3.3.18.2.1.1.               Animalia.Chordata.Aves.Piciformes.Ramphastidae.Ramphastos.Ramphastos sulfuratus.
+492       1.3.3.19.                     Animalia.Chordata.Aves.Procellariiforms.
+493       1.3.3.19.1.                   Animalia.Chordata.Aves.Procellariiforms.Diomedeidae.
+494       1.3.3.19.1.1.                 Animalia.Chordata.Aves.Procellariiforms.Diomedeidae.Diomedea.
+495       1.3.3.19.1.1.1.               Animalia.Chordata.Aves.Procellariiforms.Diomedeidae.Diomedea.Diomedea exulans.
+496       1.3.3.20.                     Animalia.Chordata.Aves.Psittaciformes.
+497       1.3.3.20.1.                   Animalia.Chordata.Aves.Psittaciformes.Nestoridae.
+498       1.3.3.20.1.1.                 Animalia.Chordata.Aves.Psittaciformes.Nestoridae.Strigops.
+499       1.3.3.20.1.1.1.               Animalia.Chordata.Aves.Psittaciformes.Nestoridae.Strigops.Strigops habroptilus.
+500       1.3.3.20.2.                   Animalia.Chordata.Aves.Psittaciformes.Psittacidae.
+501       1.3.3.20.2.1.                 Animalia.Chordata.Aves.Psittaciformes.Psittacidae.+Conuropsis.
+502       1.3.3.20.2.1.1.               Animalia.Chordata.Aves.Psittaciformes.Psittacidae.+Conuropsis.+Conuropsis carolinensis.
+503       1.3.3.20.2.2.                 Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Ara.
+504       1.3.3.20.2.2.1.               Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Ara.Ara macao.
+505       1.3.3.20.2.3.                 Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Arini.
+506       1.3.3.20.2.3.1.               Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Arini.Arini.
+507       1.3.3.20.2.4.                 Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Cyanopsitta.
+508       1.3.3.20.2.4.1.               Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Cyanopsitta.Cyanopsitta spixii.
+509       1.3.3.20.2.5.                 Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Forpus.
+510       1.3.3.20.2.5.1.               Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Forpus.Forpus cyanopygius.
+511       1.3.3.20.2.6.                 Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Melopsittacus.
+512       1.3.3.20.2.6.1.               Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Melopsittacus.Melopsittacus undulatus.
+513       1.3.3.20.2.7.                 Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Poicephalus.
+514       1.3.3.20.2.7.1.               Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Poicephalus.Poicephalus senegalus.
+515       1.3.3.20.2.8.                 Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Psittacus.
+516       1.3.3.20.2.8.1.               Animalia.Chordata.Aves.Psittaciformes.Psittacidae.Psittacus.Psittacus erithacus.
+517       1.3.3.21.                     Animalia.Chordata.Aves.Sphenisciformes.
+518       1.3.3.21.1.                   Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.
+519       1.3.3.21.1.1.                 Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Aptenodytes.
+520       1.3.3.21.1.1.1.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Aptenodytes.Aptenodytes forsteri.
+521       1.3.3.21.1.1.2.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Aptenodytes.Aptenodytes patagonicus.
+522       1.3.3.21.1.2.                 Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Eudyptes.
+523       1.3.3.21.1.2.1.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Eudyptes.Eudyptes Chrysolophus.
+524       1.3.3.21.1.2.2.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Eudyptes.Eudyptes chrysocome.
+525       1.3.3.21.1.2.3.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Eudyptes.Eudyptes robustus.
+526       1.3.3.21.1.2.4.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Eudyptes.Eudyptes schlegeli.
+527       1.3.3.21.1.3.                 Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Eudyptula.
+528       1.3.3.21.1.3.1.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Eudyptula.Eudyptula Minor.
+529       1.3.3.21.1.4.                 Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Megadyptes.
+530       1.3.3.21.1.4.1.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Megadyptes.Megadyptes antipodes.
+531       1.3.3.21.1.5.                 Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Pygoscelis.
+532       1.3.3.21.1.5.1.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Pygoscelis.Pygoscelis Antarcticus.
+533       1.3.3.21.1.5.2.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Pygoscelis.Pygoscelis adeliae.
+534       1.3.3.21.1.5.3.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Pygoscelis.Pygoscelis papua.
+535       1.3.3.21.1.6.                 Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Spheniscus.
+536       1.3.3.21.1.6.1.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Spheniscus.Spheniscus Mendiculus.
+537       1.3.3.21.1.6.2.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Spheniscus.Spheniscus demersus.
+538       1.3.3.21.1.6.3.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Spheniscus.Spheniscus humboldti.
+539       1.3.3.21.1.6.4.               Animalia.Chordata.Aves.Sphenisciformes.Spheniscidae.Spheniscus.Spheniscus magellanicus.
+540       1.3.3.22.                     Animalia.Chordata.Aves.Strigiformes.
+541       1.3.3.22.1.                   Animalia.Chordata.Aves.Strigiformes.Strigidae.
+542       1.3.3.22.1.1.                 Animalia.Chordata.Aves.Strigiformes.Strigidae.Athene.
+543       1.3.3.22.1.1.1.               Animalia.Chordata.Aves.Strigiformes.Strigidae.Athene.Athene cunicularia.
+544       1.3.3.22.1.2.                 Animalia.Chordata.Aves.Strigiformes.Strigidae.Bubo.
+545       1.3.3.22.1.2.1.               Animalia.Chordata.Aves.Strigiformes.Strigidae.Bubo.Bubo scandiacus.
+546       1.3.3.22.1.3.                 Animalia.Chordata.Aves.Strigiformes.Strigidae.Strix.
+547       1.3.3.22.1.3.1.               Animalia.Chordata.Aves.Strigiformes.Strigidae.Strix.Strix aluco.
+548       1.3.3.22.1.3.2.               Animalia.Chordata.Aves.Strigiformes.Strigidae.Strix.Strix varia.
+549       1.3.3.22.2.                   Animalia.Chordata.Aves.Strigiformes.Tytonidae.
+550       1.3.3.22.2.1.                 Animalia.Chordata.Aves.Strigiformes.Tytonidae.Tyto.
+551       1.3.3.22.2.1.1.               Animalia.Chordata.Aves.Strigiformes.Tytonidae.Tyto.Tyto alba.
+552       1.3.3.22.2.1.2.               Animalia.Chordata.Aves.Strigiformes.Tytonidae.Tyto.Tyto aurantia.
+553       1.3.3.23.                     Animalia.Chordata.Aves.Struthioniformes.
+554       1.3.3.23.1.                   Animalia.Chordata.Aves.Struthioniformes.Struthionidae.
+555       1.3.3.23.1.1.                 Animalia.Chordata.Aves.Struthioniformes.Struthionidae.Struthio.
+556       1.3.3.23.1.1.1.               Animalia.Chordata.Aves.Struthioniformes.Struthionidae.Struthio.Struthio camelus.
+557       1.3.3.24.                     Animalia.Chordata.Aves.Trogoniformes.
+558       1.3.3.24.1.                   Animalia.Chordata.Aves.Trogoniformes.Trogonidae.
+559       1.3.3.24.1.1.                 Animalia.Chordata.Aves.Trogoniformes.Trogonidae.Pharomachrus, Euptilotis.
+560       1.3.3.24.1.1.1.               Animalia.Chordata.Aves.Trogoniformes.Trogonidae.Pharomachrus, Euptilotis.Pharomachrus, Euptilotis.
+561       1.3.4.                        Animalia.Chordata.Chondrichthyes.
+562       1.3.4.1.                      Animalia.Chordata.Chondrichthyes.Carcharhiniformes.
+563       1.3.4.1.1.                    Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Carcharhinidae.
+564       1.3.4.1.1.1.                  Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Carcharhinidae.Carcharhinus.
+565       1.3.4.1.1.1.1.                Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Carcharhinidae.Carcharhinus.Carcharhinus Amblyrhynchos.
+566       1.3.4.1.1.1.2.                Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Carcharhinidae.Carcharhinus.Carcharhinus Leucas.
+567       1.3.4.1.1.1.3.                Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Carcharhinidae.Carcharhinus.Carcharhinus brevipinna.
+568       1.3.4.1.1.2.                  Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Carcharhinidae.Galeocerdo.
+569       1.3.4.1.1.2.1.                Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Carcharhinidae.Galeocerdo.Galeocerdo Cuvier.
+570       1.3.4.1.1.3.                  Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Carcharhinidae.Prionace.
+571       1.3.4.1.1.3.1.                Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Carcharhinidae.Prionace.Prionace glauca.
+572       1.3.4.1.2.                    Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Sphyrnidae.
+573       1.3.4.1.2.1.                  Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Sphyrnidae.Sphyrna.
+574       1.3.4.1.2.1.1.                Animalia.Chordata.Chondrichthyes.Carcharhiniformes.Sphyrnidae.Sphyrna.Sphyrna tiburo.
+575       1.3.4.2.                      Animalia.Chordata.Chondrichthyes.Heterodontiformes.
+576       1.3.4.2.1.                    Animalia.Chordata.Chondrichthyes.Heterodontiformes.Heterodontidae.
+577       1.3.4.2.1.1.                  Animalia.Chordata.Chondrichthyes.Heterodontiformes.Heterodontidae.Heterodontus.
+578       1.3.4.2.1.1.1.                Animalia.Chordata.Chondrichthyes.Heterodontiformes.Heterodontidae.Heterodontus.Heterodontus francisci.
+579       1.3.4.3.                      Animalia.Chordata.Chondrichthyes.Hexanchiformes.
+580       1.3.4.3.1.                    Animalia.Chordata.Chondrichthyes.Hexanchiformes.Chlamydoselachidae.
+581       1.3.4.3.1.1.                  Animalia.Chordata.Chondrichthyes.Hexanchiformes.Chlamydoselachidae.Chlamydoselachus.
+582       1.3.4.3.1.1.1.                Animalia.Chordata.Chondrichthyes.Hexanchiformes.Chlamydoselachidae.Chlamydoselachus.Chlamydoselachus anguineus.
+583       1.3.4.4.                      Animalia.Chordata.Chondrichthyes.Lamniformes.
+584       1.3.4.4.1.                    Animalia.Chordata.Chondrichthyes.Lamniformes.Cetorhinidae.
+585       1.3.4.4.1.1.                  Animalia.Chordata.Chondrichthyes.Lamniformes.Cetorhinidae.Cetorhinus.
+586       1.3.4.4.1.1.1.                Animalia.Chordata.Chondrichthyes.Lamniformes.Cetorhinidae.Cetorhinus.Cetorhinus Maximus.
+587       1.3.4.4.2.                    Animalia.Chordata.Chondrichthyes.Lamniformes.Lamnidae.
+588       1.3.4.4.2.1.                  Animalia.Chordata.Chondrichthyes.Lamniformes.Lamnidae.Carcharodon.
+589       1.3.4.4.2.1.1.                Animalia.Chordata.Chondrichthyes.Lamniformes.Lamnidae.Carcharodon.Carcharodon carcharias.
+590       1.3.4.4.2.2.                  Animalia.Chordata.Chondrichthyes.Lamniformes.Lamnidae.Lamna.
+591       1.3.4.4.2.2.1.                Animalia.Chordata.Chondrichthyes.Lamniformes.Lamnidae.Lamna.Lamna ditropis.
+592       1.3.4.4.2.2.2.                Animalia.Chordata.Chondrichthyes.Lamniformes.Lamnidae.Lamna.Lamna nasus.
+593       1.3.4.4.3.                    Animalia.Chordata.Chondrichthyes.Lamniformes.Megachasmidae.
+594       1.3.4.4.3.1.                  Animalia.Chordata.Chondrichthyes.Lamniformes.Megachasmidae.Megachasma.
+595       1.3.4.4.3.1.1.                Animalia.Chordata.Chondrichthyes.Lamniformes.Megachasmidae.Megachasma.Megachasma pelagios.
+596       1.3.4.5.                      Animalia.Chordata.Chondrichthyes.Orectolobiformes.
+597       1.3.4.5.1.                    Animalia.Chordata.Chondrichthyes.Orectolobiformes.Ginglymostomatidae.
+598       1.3.4.5.1.1.                  Animalia.Chordata.Chondrichthyes.Orectolobiformes.Ginglymostomatidae.Ginglymostoma.
+599       1.3.4.5.1.1.1.                Animalia.Chordata.Chondrichthyes.Orectolobiformes.Ginglymostomatidae.Ginglymostoma.Ginglymostoma cirratum.
+600       1.3.4.5.2.                    Animalia.Chordata.Chondrichthyes.Orectolobiformes.Rhincodontidae.
+601       1.3.4.5.2.1.                  Animalia.Chordata.Chondrichthyes.Orectolobiformes.Rhincodontidae.Rhincodon.
+602       1.3.4.5.2.1.1.                Animalia.Chordata.Chondrichthyes.Orectolobiformes.Rhincodontidae.Rhincodon.Rhincodon Typus.
+603       1.3.4.5.3.                    Animalia.Chordata.Chondrichthyes.Orectolobiformes.Stegostomatidae.
+604       1.3.4.5.3.1.                  Animalia.Chordata.Chondrichthyes.Orectolobiformes.Stegostomatidae.Stegostoma.
+605       1.3.4.5.3.1.1.                Animalia.Chordata.Chondrichthyes.Orectolobiformes.Stegostomatidae.Stegostoma.Stegostoma Fasciatum.
+606       1.3.4.6.                      Animalia.Chordata.Chondrichthyes.Squaliformes.
+607       1.3.4.6.1.                    Animalia.Chordata.Chondrichthyes.Squaliformes.Somniosidae.
+608       1.3.4.6.1.1.                  Animalia.Chordata.Chondrichthyes.Squaliformes.Somniosidae.Somniosus.
+609       1.3.4.6.1.1.1.                Animalia.Chordata.Chondrichthyes.Squaliformes.Somniosidae.Somniosus.Somniosus microcephalus.
+610       1.3.4.6.2.                    Animalia.Chordata.Chondrichthyes.Squaliformes.Squalidae.
+611       1.3.4.6.2.1.                  Animalia.Chordata.Chondrichthyes.Squaliformes.Squalidae.Squalus.
+612       1.3.4.6.2.1.1.                Animalia.Chordata.Chondrichthyes.Squaliformes.Squalidae.Squalus.Squalus acanthias.
+613       1.3.5.                        Animalia.Chordata.Mammalia.
+614       1.3.5.1.                      Animalia.Chordata.Mammalia. Carnivora.
+615       1.3.5.1.1.                    Animalia.Chordata.Mammalia. Carnivora. Canidae.
+616       1.3.5.1.1.1.                  Animalia.Chordata.Mammalia. Carnivora. Canidae.Canis.
+617       1.3.5.1.1.1.1.                Animalia.Chordata.Mammalia. Carnivora. Canidae.Canis.Canis lupus.
+618       1.3.5.2.                      Animalia.Chordata.Mammalia.Artiodactlya.
+619       1.3.5.2.1.                    Animalia.Chordata.Mammalia.Artiodactlya.Bovidae.
+620       1.3.5.2.1.1.                  Animalia.Chordata.Mammalia.Artiodactlya.Bovidae.Oryx.
+621       1.3.5.2.1.1.1.                Animalia.Chordata.Mammalia.Artiodactlya.Bovidae.Oryx.Oryx Dammah.
+622       1.3.5.3.                      Animalia.Chordata.Mammalia.Artiodactyla.
+623       1.3.5.3.1.                    Animalia.Chordata.Mammalia.Artiodactyla.Antilocapridae.
+624       1.3.5.3.1.1.                  Animalia.Chordata.Mammalia.Artiodactyla.Antilocapridae.Antilocapra.
+625       1.3.5.3.1.1.1.                Animalia.Chordata.Mammalia.Artiodactyla.Antilocapridae.Antilocapra.Antilocapra americana.
+626       1.3.5.3.2.                    Animalia.Chordata.Mammalia.Artiodactyla.Artiodactyla.
+627       1.3.5.3.2.1.                  Animalia.Chordata.Mammalia.Artiodactyla.Artiodactyla.Ovibos.
+628       1.3.5.3.2.1.1.                Animalia.Chordata.Mammalia.Artiodactyla.Artiodactyla.Ovibos.Ovibos moschatus.
+629       1.3.5.3.3.                    Animalia.Chordata.Mammalia.Artiodactyla.Balaenidae.
+630       1.3.5.3.3.1.                  Animalia.Chordata.Mammalia.Artiodactyla.Balaenidae.Balaena.
+631       1.3.5.3.3.1.1.                Animalia.Chordata.Mammalia.Artiodactyla.Balaenidae.Balaena.Balaena mysticetus.
+632       1.3.5.3.4.                    Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.
+633       1.3.5.3.4.1.                  Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Addax.
+634       1.3.5.3.4.1.1.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Addax.Addax nasomaculatus.
+635       1.3.5.3.4.2.                  Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Aepyceros.
+636       1.3.5.3.4.2.1.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Aepyceros.Aepyceros Melampus.
+637       1.3.5.3.4.3.                  Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Antidorcas.
+638       1.3.5.3.4.3.1.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Antidorcas.Antidorcas marsupialis.
+639       1.3.5.3.4.4.                  Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bison.
+640       1.3.5.3.4.4.1.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bison.Bison Bison.
+641       1.3.5.3.4.4.2.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bison.Bison bison athabascae.
+642       1.3.5.3.4.5.                  Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bos.
+643       1.3.5.3.4.5.1.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bos.Bos Taurus.
+644       1.3.5.3.4.5.2.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bos.Bos grunniens.
+645       1.3.5.3.4.5.3.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bos.Bos taurus indicus.
+646       1.3.5.3.4.6.                  Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bos x Bison.
+647       1.3.5.3.4.6.1.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bos x Bison.Bos taurus x Bison bison.
+648       1.3.5.3.4.7.                  Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bubalus.
+649       1.3.5.3.4.7.1.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Bubalus.Bubalus bubalis.
+650       1.3.5.3.4.8.                  Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Budorcas.
+651       1.3.5.3.4.8.1.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Budorcas.Budorcas taxicolor.
+652       1.3.5.3.4.9.                  Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Capra.
+653       1.3.5.3.4.9.1.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Capra.Capra aegagrus Hircus.
+654       1.3.5.3.4.9.2.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Capra.Capra aegagrus hircus.
+655       1.3.5.3.4.9.3.                Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Capra.Capra falconeri.
+656       1.3.5.3.4.10.                 Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Connochaetes.
+657       1.3.5.3.4.10.1.               Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Connochaetes.Connochaetes Taurinus.
+658       1.3.5.3.4.11.                 Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Ovis.
+659       1.3.5.3.4.11.1.               Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Ovis.Ovis aries.
+660       1.3.5.3.4.11.2.               Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Ovis.Ovis canadensis.
+661       1.3.5.3.4.12.                 Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Pseudoryx.
+662       1.3.5.3.4.12.1.               Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Pseudoryx.Pseudoryx nghetinhensis.
+663       1.3.5.3.4.13.                 Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Rupicapra.
+664       1.3.5.3.4.13.1.               Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Rupicapra.Rupicapra rupicapra.
+665       1.3.5.3.4.14.                 Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Saiga.
+666       1.3.5.3.4.14.1.               Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Saiga.Saiga tatarica.
+667       1.3.5.3.4.15.                 Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Syncerus.
+668       1.3.5.3.4.15.1.               Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Syncerus.Syncerus caffer.
+669       1.3.5.3.4.16.                 Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Tragelaphus.
+670       1.3.5.3.4.16.1.               Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Tragelaphus.Tragelaphus Strepsiceros.
+671       1.3.5.3.4.16.2.               Animalia.Chordata.Mammalia.Artiodactyla.Bovidae.Tragelaphus.Tragelaphus eurycerus.
+672       1.3.5.3.5.                    Animalia.Chordata.Mammalia.Artiodactyla.Calvo.
+673       1.3.5.3.5.1.                  Animalia.Chordata.Mammalia.Artiodactyla.Calvo.Capra.
+674       1.3.5.3.5.1.1.                Animalia.Chordata.Mammalia.Artiodactyla.Calvo.Capra.Capra aegagrus hircus.
+675       1.3.5.3.6.                    Animalia.Chordata.Mammalia.Artiodactyla.Camelidae.
+676       1.3.5.3.6.1.                  Animalia.Chordata.Mammalia.Artiodactyla.Camelidae.Camelus.
+677       1.3.5.3.6.1.1.                Animalia.Chordata.Mammalia.Artiodactyla.Camelidae.Camelus.Camelus Bactrianus.
+678       1.3.5.3.6.1.2.                Animalia.Chordata.Mammalia.Artiodactyla.Camelidae.Camelus.Camelus dromedarius.
+679       1.3.5.3.6.2.                  Animalia.Chordata.Mammalia.Artiodactyla.Camelidae.Lama.
+680       1.3.5.3.6.2.1.                Animalia.Chordata.Mammalia.Artiodactyla.Camelidae.Lama.Lama Glama.
+681       1.3.5.3.6.3.                  Animalia.Chordata.Mammalia.Artiodactyla.Camelidae.Vicugna.
+682       1.3.5.3.6.3.1.                Animalia.Chordata.Mammalia.Artiodactyla.Camelidae.Vicugna.Vicugna pacos.
+683       1.3.5.3.7.                    Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.
+684       1.3.5.3.7.1.                  Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Alces.
+685       1.3.5.3.7.1.1.                Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Alces.Alces alces.
+686       1.3.5.3.7.2.                  Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Capreolus.
+687       1.3.5.3.7.2.1.                Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Capreolus.Capreolus capreolus.
+688       1.3.5.3.7.3.                  Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Cervus.
+689       1.3.5.3.7.3.1.                Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Cervus.Cervus canadensis.
+690       1.3.5.3.7.4.                  Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Dama.
+691       1.3.5.3.7.4.1.                Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Dama.Dama dama.
+692       1.3.5.3.7.5.                  Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Elaphurus.
+693       1.3.5.3.7.5.1.                Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Elaphurus.Elaphurus davidianus.
+694       1.3.5.3.7.6.                  Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Odocoileus.
+695       1.3.5.3.7.6.1.                Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Odocoileus.Odocoileus virginianus.
+696       1.3.5.3.7.7.                  Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Rangifer.
+697       1.3.5.3.7.7.1.                Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Rangifer.Rangifer Tarandus.
+698       1.3.5.3.7.7.2.                Animalia.Chordata.Mammalia.Artiodactyla.Cervidae.Rangifer.Rangifer tarandus.
+699       1.3.5.3.8.                    Animalia.Chordata.Mammalia.Artiodactyla.Delphinidae.
+700       1.3.5.3.8.1.                  Animalia.Chordata.Mammalia.Artiodactyla.Delphinidae.Pseudorca.
+701       1.3.5.3.8.1.1.                Animalia.Chordata.Mammalia.Artiodactyla.Delphinidae.Pseudorca.Pseudorca crassidens.
+702       1.3.5.3.9.                    Animalia.Chordata.Mammalia.Artiodactyla.Eschrichtiidae.
+703       1.3.5.3.9.1.                  Animalia.Chordata.Mammalia.Artiodactyla.Eschrichtiidae.Eubalaena and Balaena.
+704       1.3.5.3.9.1.1.                Animalia.Chordata.Mammalia.Artiodactyla.Eschrichtiidae.Eubalaena and Balaena.Mysticeti.
+705       1.3.5.3.10.                   Animalia.Chordata.Mammalia.Artiodactyla.Giraffidae.
+706       1.3.5.3.10.1.                 Animalia.Chordata.Mammalia.Artiodactyla.Giraffidae.Giraffa.
+707       1.3.5.3.10.1.1.               Animalia.Chordata.Mammalia.Artiodactyla.Giraffidae.Giraffa.Giraffa camelopardalis.
+708       1.3.5.3.10.2.                 Animalia.Chordata.Mammalia.Artiodactyla.Giraffidae.Okapia.
+709       1.3.5.3.10.2.1.               Animalia.Chordata.Mammalia.Artiodactyla.Giraffidae.Okapia.Okapia johnstoni.
+710       1.3.5.3.11.                   Animalia.Chordata.Mammalia.Artiodactyla.Hippopotamidae.
+711       1.3.5.3.11.1.                 Animalia.Chordata.Mammalia.Artiodactyla.Hippopotamidae.Hippopotamus.
+712       1.3.5.3.11.1.1.               Animalia.Chordata.Mammalia.Artiodactyla.Hippopotamidae.Hippopotamus.Choeropsis liberiensis.
+713       1.3.5.3.11.1.2.               Animalia.Chordata.Mammalia.Artiodactyla.Hippopotamidae.Hippopotamus.Hippopotamus amphibius.
+714       1.3.5.3.12.                   Animalia.Chordata.Mammalia.Artiodactyla.Phocoenidae.
+715       1.3.5.3.12.1.                 Animalia.Chordata.Mammalia.Artiodactyla.Phocoenidae.Phocoena.
+716       1.3.5.3.12.1.1.               Animalia.Chordata.Mammalia.Artiodactyla.Phocoenidae.Phocoena.Phocoena sinus.
+717       1.3.5.3.13.                   Animalia.Chordata.Mammalia.Artiodactyla.Suidae.
+718       1.3.5.3.13.1.                 Animalia.Chordata.Mammalia.Artiodactyla.Suidae.Phacochoerus.
+719       1.3.5.3.13.1.1.               Animalia.Chordata.Mammalia.Artiodactyla.Suidae.Phacochoerus.Phacochoerus africanus.
+720       1.3.5.3.13.2.                 Animalia.Chordata.Mammalia.Artiodactyla.Suidae.Sus.
+721       1.3.5.3.13.2.1.               Animalia.Chordata.Mammalia.Artiodactyla.Suidae.Sus.Sus scrofa.
+722       1.3.5.3.13.2.2.               Animalia.Chordata.Mammalia.Artiodactyla.Suidae.Sus.Sus scrofa scrofa.
+723       1.3.5.4.                      Animalia.Chordata.Mammalia.Atriodactyla.
+724       1.3.5.4.1.                    Animalia.Chordata.Mammalia.Atriodactyla.Tayassuidae.
+725       1.3.5.4.1.1.                  Animalia.Chordata.Mammalia.Atriodactyla.Tayassuidae.Pecari.
+726       1.3.5.4.1.1.1.                Animalia.Chordata.Mammalia.Atriodactyla.Tayassuidae.Pecari.Pecari tajacu.
+727       1.3.5.5.                      Animalia.Chordata.Mammalia.Carnivora.
+728       1.3.5.5.1.                    Animalia.Chordata.Mammalia.Carnivora.Ailuridae.
+729       1.3.5.5.1.1.                  Animalia.Chordata.Mammalia.Carnivora.Ailuridae.Ailurus.
+730       1.3.5.5.1.1.1.                Animalia.Chordata.Mammalia.Carnivora.Ailuridae.Ailurus.Ailurus fulgens.
+731       1.3.5.5.2.                    Animalia.Chordata.Mammalia.Carnivora.Canidae.
+732       1.3.5.5.2.1.                  Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.
+733       1.3.5.5.2.1.1.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.Canis Aureus.
+734       1.3.5.5.2.1.2.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.Canis Lupus.
+735       1.3.5.5.2.1.3.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.Canis Lupus Dingo.
+736       1.3.5.5.2.1.4.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.Canis latrans.
+737       1.3.5.5.2.1.5.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.Canis lupus.
+738       1.3.5.5.2.1.6.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.Canis lupus familiaris.
+739       1.3.5.5.2.1.7.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.Canis lupus occidentalis.
+740       1.3.5.5.2.1.8.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.Canis lupus rufus.
+741       1.3.5.5.2.1.9.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.Canus Lupus Arcticus.
+742       1.3.5.5.2.1.10.               Animalia.Chordata.Mammalia.Carnivora.Canidae.Canis.canis lupus familiaris.
+743       1.3.5.5.2.2.                  Animalia.Chordata.Mammalia.Carnivora.Canidae.Chrysocyon.
+744       1.3.5.5.2.2.1.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Chrysocyon.Chyrsocyon brachyurus.
+745       1.3.5.5.2.3.                  Animalia.Chordata.Mammalia.Carnivora.Canidae.Cuon.
+746       1.3.5.5.2.3.1.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Cuon.Cuon alpinus.
+747       1.3.5.5.2.4.                  Animalia.Chordata.Mammalia.Carnivora.Canidae.Lycaon.
+748       1.3.5.5.2.4.1.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Lycaon.Lycaon pictus.
+749       1.3.5.5.2.5.                  Animalia.Chordata.Mammalia.Carnivora.Canidae.Nyctereutes.
+750       1.3.5.5.2.5.1.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Nyctereutes.Nyctereutes procyonoides.
+751       1.3.5.5.2.6.                  Animalia.Chordata.Mammalia.Carnivora.Canidae.Urocyon.
+752       1.3.5.5.2.6.1.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Urocyon.Urocyon cinereoargenteus.
+753       1.3.5.5.2.7.                  Animalia.Chordata.Mammalia.Carnivora.Canidae.Vulpes.
+754       1.3.5.5.2.7.1.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Vulpes.Vulpes ferrilata.
+755       1.3.5.5.2.7.2.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Vulpes.Vulpes lagopus.
+756       1.3.5.5.2.7.3.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Vulpes.Vulpes vulpes.
+757       1.3.5.5.2.7.4.                Animalia.Chordata.Mammalia.Carnivora.Canidae.Vulpes.Vulpes zerda.
+758       1.3.5.5.3.                    Animalia.Chordata.Mammalia.Carnivora.Eupleridae.
+759       1.3.5.5.3.1.                  Animalia.Chordata.Mammalia.Carnivora.Eupleridae.Cryptoprocta.
+760       1.3.5.5.3.1.1.                Animalia.Chordata.Mammalia.Carnivora.Eupleridae.Cryptoprocta.Cryptoprocta ferox.
+761       1.3.5.5.4.                    Animalia.Chordata.Mammalia.Carnivora.Felidae.
+762       1.3.5.5.4.1.                  Animalia.Chordata.Mammalia.Carnivora.Felidae.Acinonyx.
+763       1.3.5.5.4.1.1.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Acinonyx.Acinonyx jubatus.
+764       1.3.5.5.4.2.                  Animalia.Chordata.Mammalia.Carnivora.Felidae.Caracal.
+765       1.3.5.5.4.2.1.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Caracal.Caracal Caracal.
+766       1.3.5.5.4.3.                  Animalia.Chordata.Mammalia.Carnivora.Felidae.Felis.
+767       1.3.5.5.4.3.1.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Felis.Felis Catus.
+768       1.3.5.5.4.3.2.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Felis.Felis catus.
+769       1.3.5.5.4.4.                  Animalia.Chordata.Mammalia.Carnivora.Felidae.Herpailurus.
+770       1.3.5.5.4.4.1.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Herpailurus.Herpailurus yagouaroundi.
+771       1.3.5.5.4.5.                  Animalia.Chordata.Mammalia.Carnivora.Felidae.Leopardus.
+772       1.3.5.5.4.5.1.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Leopardus.Leopardus guigna.
+773       1.3.5.5.4.5.2.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Leopardus.Leopardus pardalis.
+774       1.3.5.5.4.6.                  Animalia.Chordata.Mammalia.Carnivora.Felidae.Leptailurus.
+775       1.3.5.5.4.6.1.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Leptailurus.Leptailurus serval.
+776       1.3.5.5.4.7.                  Animalia.Chordata.Mammalia.Carnivora.Felidae.Lynx.
+777       1.3.5.5.4.7.1.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Lynx.Felis lynx.
+778       1.3.5.5.4.7.2.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Lynx.Lynx canadensis.
+779       1.3.5.5.4.7.3.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Lynx.Lynx lynx balcanicus.
+780       1.3.5.5.4.7.4.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Lynx.Lynx rufus.
+781       1.3.5.5.4.8.                  Animalia.Chordata.Mammalia.Carnivora.Felidae.Neofelis.
+782       1.3.5.5.4.8.1.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Neofelis.Neofelis nebulosa.
+783       1.3.5.5.4.9.                  Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.
+784       1.3.5.5.4.9.1.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera Tigris.
+785       1.3.5.5.4.9.2.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera Tigris Altaica.
+786       1.3.5.5.4.9.3.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera Tigris Amoyensis.
+787       1.3.5.5.4.9.4.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera Tigris Corbetti.
+788       1.3.5.5.4.9.5.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera Tigris Jacksoni.
+789       1.3.5.5.4.9.6.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera Tigris Sumatrae.
+790       1.3.5.5.4.9.7.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera Tigris Tigris.
+791       1.3.5.5.4.9.8.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera leo.
+792       1.3.5.5.4.9.9.                Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera leo melanochaitus.
+793       1.3.5.5.4.9.10.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera leo x Panthera tigris.
+794       1.3.5.5.4.9.11.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera onca.
+795       1.3.5.5.4.9.12.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera pardus.
+796       1.3.5.5.4.9.13.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera pardus orientalis.
+797       1.3.5.5.4.9.14.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera pardus, Panthera onca.
+798       1.3.5.5.4.9.15.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera tigris tigris.
+799       1.3.5.5.4.9.16.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Panthera.Panthera uncia.
+800       1.3.5.5.4.10.                 Animalia.Chordata.Mammalia.Carnivora.Felidae.Prionailurus.
+801       1.3.5.5.4.10.1.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Prionailurus.Prionailurus bengalensis.
+802       1.3.5.5.4.10.2.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Prionailurus.Prionailurus viverrinus.
+803       1.3.5.5.4.11.                 Animalia.Chordata.Mammalia.Carnivora.Felidae.Puma.
+804       1.3.5.5.4.11.1.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Puma.Felis Concolor.
+805       1.3.5.5.4.11.2.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Puma.Felis concolor.
+806       1.3.5.5.4.11.3.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Puma.Puma concolor couguar.
+807       1.3.5.5.4.12.                 Animalia.Chordata.Mammalia.Carnivora.Felidae.Smilodon.
+808       1.3.5.5.4.12.1.               Animalia.Chordata.Mammalia.Carnivora.Felidae.Smilodon.Smilodon populator.
+809       1.3.5.5.5.                    Animalia.Chordata.Mammalia.Carnivora.Feliformia.
+810       1.3.5.5.5.1.                  Animalia.Chordata.Mammalia.Carnivora.Feliformia.Felis.
+811       1.3.5.5.5.1.1.                Animalia.Chordata.Mammalia.Carnivora.Feliformia.Felis.Felis catus.
+812       1.3.5.5.6.                    Animalia.Chordata.Mammalia.Carnivora.Herpestidae.
+813       1.3.5.5.6.1.                  Animalia.Chordata.Mammalia.Carnivora.Herpestidae.Herpestes.
+814       1.3.5.5.6.1.1.                Animalia.Chordata.Mammalia.Carnivora.Herpestidae.Herpestes.Helogale Parvula.
+815       1.3.5.5.6.2.                  Animalia.Chordata.Mammalia.Carnivora.Herpestidae.Suricata.
+816       1.3.5.5.6.2.1.                Animalia.Chordata.Mammalia.Carnivora.Herpestidae.Suricata.Suricata suricatta.
+817       1.3.5.5.7.                    Animalia.Chordata.Mammalia.Carnivora.Hyaenidae.
+818       1.3.5.5.7.1.                  Animalia.Chordata.Mammalia.Carnivora.Hyaenidae.Crocuta.
+819       1.3.5.5.7.1.1.                Animalia.Chordata.Mammalia.Carnivora.Hyaenidae.Crocuta.Crocuta Crocuta.
+820       1.3.5.5.7.2.                  Animalia.Chordata.Mammalia.Carnivora.Hyaenidae.Hyaena.
+821       1.3.5.5.7.2.1.                Animalia.Chordata.Mammalia.Carnivora.Hyaenidae.Hyaena.Hyaena brunnea.
+822       1.3.5.5.7.2.2.                Animalia.Chordata.Mammalia.Carnivora.Hyaenidae.Hyaena.Hyaena hyaena.
+823       1.3.5.5.8.                    Animalia.Chordata.Mammalia.Carnivora.Mustelidae.
+824       1.3.5.5.8.1.                  Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Enhydra.
+825       1.3.5.5.8.1.1.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Enhydra.Enhydra Lutris.
+826       1.3.5.5.8.2.                  Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Gulo.
+827       1.3.5.5.8.2.1.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Gulo.Gulo gulo.
+828       1.3.5.5.8.3.                  Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Lutra.
+829       1.3.5.5.8.3.1.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Lutra.Lutra Canadensis.
+830       1.3.5.5.8.4.                  Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Martes.
+831       1.3.5.5.8.4.1.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Martes.Martes zibellina.
+832       1.3.5.5.8.5.                  Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mellivora.
+833       1.3.5.5.8.5.1.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mellivora.Mellivora Capensis.
+834       1.3.5.5.8.6.                  Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mustela.
+835       1.3.5.5.8.6.1.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mustela.Mustela Erminea.
+836       1.3.5.5.8.6.2.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mustela.Mustela erminea.
+837       1.3.5.5.8.6.3.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mustela.Mustela furo.
+838       1.3.5.5.8.6.4.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mustela.Mustela nigripes.
+839       1.3.5.5.8.6.5.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mustela.Mustela nivalis.
+840       1.3.5.5.8.7.                  Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mustela or Neovison.
+841       1.3.5.5.8.7.1.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Mustela or Neovison.Mustela lutreola or Neovison vison.
+842       1.3.5.5.8.8.                  Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Pekania.
+843       1.3.5.5.8.8.1.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Pekania.Pekania pennanti.
+844       1.3.5.5.8.9.                  Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Taxidiinae.
+845       1.3.5.5.8.9.1.                Animalia.Chordata.Mammalia.Carnivora.Mustelidae.Taxidiinae.Taxidea Taxus.
+846       1.3.5.5.9.                    Animalia.Chordata.Mammalia.Carnivora.Nandiniidae.
+847       1.3.5.5.9.1.                  Animalia.Chordata.Mammalia.Carnivora.Nandiniidae.Nandinia.
+848       1.3.5.5.9.1.1.                Animalia.Chordata.Mammalia.Carnivora.Nandiniidae.Nandinia.Nandinia binotata.
+849       1.3.5.5.10.                   Animalia.Chordata.Mammalia.Carnivora.Odobenidae.
+850       1.3.5.5.10.1.                 Animalia.Chordata.Mammalia.Carnivora.Odobenidae.Odobenus.
+851       1.3.5.5.10.1.1.               Animalia.Chordata.Mammalia.Carnivora.Odobenidae.Odobenus.Odobenus rosmarus.
+852       1.3.5.5.11.                   Animalia.Chordata.Mammalia.Carnivora.Otariidae.
+853       1.3.5.5.11.1.                 Animalia.Chordata.Mammalia.Carnivora.Otariidae.Arctocephalus.
+854       1.3.5.5.11.1.1.               Animalia.Chordata.Mammalia.Carnivora.Otariidae.Arctocephalus.Arctocephalinae.
+855       1.3.5.5.12.                   Animalia.Chordata.Mammalia.Carnivora.Phocidae.
+856       1.3.5.5.12.1.                 Animalia.Chordata.Mammalia.Carnivora.Phocidae.Cystophora.
+857       1.3.5.5.12.1.1.               Animalia.Chordata.Mammalia.Carnivora.Phocidae.Cystophora.Cystophora cristata.
+858       1.3.5.5.12.2.                 Animalia.Chordata.Mammalia.Carnivora.Phocidae.Halichoerus.
+859       1.3.5.5.12.2.1.               Animalia.Chordata.Mammalia.Carnivora.Phocidae.Halichoerus.Halichoerus Grypus.
+860       1.3.5.5.12.3.                 Animalia.Chordata.Mammalia.Carnivora.Phocidae.Hydrurga.
+861       1.3.5.5.12.3.1.               Animalia.Chordata.Mammalia.Carnivora.Phocidae.Hydrurga.Hydrurga Leptonyx.
+862       1.3.5.5.12.4.                 Animalia.Chordata.Mammalia.Carnivora.Phocidae.Mirounga.
+863       1.3.5.5.12.4.1.               Animalia.Chordata.Mammalia.Carnivora.Phocidae.Mirounga.Mirounga.
+864       1.3.5.5.12.5.                 Animalia.Chordata.Mammalia.Carnivora.Phocidae.Neomonachus.
+865       1.3.5.5.12.5.1.               Animalia.Chordata.Mammalia.Carnivora.Phocidae.Neomonachus.Neomonachus schauinslandi.
+866       1.3.5.5.12.6.                 Animalia.Chordata.Mammalia.Carnivora.Phocidae.Pagophilus.
+867       1.3.5.5.12.6.1.               Animalia.Chordata.Mammalia.Carnivora.Phocidae.Pagophilus.Pagophilus groenlandicus.
+868       1.3.5.5.12.7.                 Animalia.Chordata.Mammalia.Carnivora.Phocidae.Phoca.
+869       1.3.5.5.12.7.1.               Animalia.Chordata.Mammalia.Carnivora.Phocidae.Phoca.Phoca vitulina.
+870       1.3.5.5.13.                   Animalia.Chordata.Mammalia.Carnivora.Pinnipedia.
+871       1.3.5.5.13.1.                 Animalia.Chordata.Mammalia.Carnivora.Pinnipedia.Callorhinus.
+872       1.3.5.5.13.1.1.               Animalia.Chordata.Mammalia.Carnivora.Pinnipedia.Callorhinus.Callorhinus ursinus.
+873       1.3.5.5.13.2.                 Animalia.Chordata.Mammalia.Carnivora.Pinnipedia.Lobodon.
+874       1.3.5.5.13.2.1.               Animalia.Chordata.Mammalia.Carnivora.Pinnipedia.Lobodon.Lobodon carcinophaga.
+875       1.3.5.5.14.                   Animalia.Chordata.Mammalia.Carnivora.Procyonidae.
+876       1.3.5.5.14.1.                 Animalia.Chordata.Mammalia.Carnivora.Procyonidae.Nasua.
+877       1.3.5.5.14.1.1.               Animalia.Chordata.Mammalia.Carnivora.Procyonidae.Nasua.Nasua nasua.
+878       1.3.5.5.14.2.                 Animalia.Chordata.Mammalia.Carnivora.Procyonidae.Potos.
+879       1.3.5.5.14.2.1.               Animalia.Chordata.Mammalia.Carnivora.Procyonidae.Potos.Potos flavus.
+880       1.3.5.5.14.3.                 Animalia.Chordata.Mammalia.Carnivora.Procyonidae.Procyon.
+881       1.3.5.5.14.3.1.               Animalia.Chordata.Mammalia.Carnivora.Procyonidae.Procyon.Procyon lotor.
+882       1.3.5.5.15.                   Animalia.Chordata.Mammalia.Carnivora.Ursidae.
+883       1.3.5.5.15.1.                 Animalia.Chordata.Mammalia.Carnivora.Ursidae.Ailuropoda.
+884       1.3.5.5.15.1.1.               Animalia.Chordata.Mammalia.Carnivora.Ursidae.Ailuropoda.Ailuropoda melanoleuca.
+885       1.3.5.5.15.2.                 Animalia.Chordata.Mammalia.Carnivora.Ursidae.Helarctos.
+886       1.3.5.5.15.2.1.               Animalia.Chordata.Mammalia.Carnivora.Ursidae.Helarctos.Helarctos malayanus.
+887       1.3.5.5.15.3.                 Animalia.Chordata.Mammalia.Carnivora.Ursidae.Tremarctos.
+888       1.3.5.5.15.3.1.               Animalia.Chordata.Mammalia.Carnivora.Ursidae.Tremarctos.Tremarctos Ornatus.
+889       1.3.5.5.15.4.                 Animalia.Chordata.Mammalia.Carnivora.Ursidae.Ursus.
+890       1.3.5.5.15.4.1.               Animalia.Chordata.Mammalia.Carnivora.Ursidae.Ursus.Ursidae.
+891       1.3.5.5.15.4.2.               Animalia.Chordata.Mammalia.Carnivora.Ursidae.Ursus.Ursus Arctos Horriblis.
+892       1.3.5.5.15.4.3.               Animalia.Chordata.Mammalia.Carnivora.Ursidae.Ursus.Ursus americanus.
+893       1.3.5.5.15.4.4.               Animalia.Chordata.Mammalia.Carnivora.Ursidae.Ursus.Ursus arctos.
+894       1.3.5.5.15.4.5.               Animalia.Chordata.Mammalia.Carnivora.Ursidae.Ursus.Ursus maritimus.
+895       1.3.5.5.15.4.6.               Animalia.Chordata.Mammalia.Carnivora.Ursidae.Ursus.Ursus tibetanus.
+896       1.3.5.5.16.                   Animalia.Chordata.Mammalia.Carnivora.Viverridae.
+897       1.3.5.5.16.1.                 Animalia.Chordata.Mammalia.Carnivora.Viverridae.Arctictis.
+898       1.3.5.5.16.1.1.               Animalia.Chordata.Mammalia.Carnivora.Viverridae.Arctictis.Arctictis binturong.
+899       1.3.5.5.16.2.                 Animalia.Chordata.Mammalia.Carnivora.Viverridae.Civettictis.
+900       1.3.5.5.16.2.1.               Animalia.Chordata.Mammalia.Carnivora.Viverridae.Civettictis.Civettictis civetta.
+901       1.3.5.5.16.3.                 Animalia.Chordata.Mammalia.Carnivora.Viverridae.Genetta.
+902       1.3.5.5.16.3.1.               Animalia.Chordata.Mammalia.Carnivora.Viverridae.Genetta.Genetta genetta.
+903       1.3.5.5.16.4.                 Animalia.Chordata.Mammalia.Carnivora.Viverridae.Hemigalus.
+904       1.3.5.5.16.4.1.               Animalia.Chordata.Mammalia.Carnivora.Viverridae.Hemigalus.Hemigalus Derbyanus.
+905       1.3.5.5.16.5.                 Animalia.Chordata.Mammalia.Carnivora.Viverridae.Paguma.
+906       1.3.5.5.16.5.1.               Animalia.Chordata.Mammalia.Carnivora.Viverridae.Paguma.Paguma larvata.
+907       1.3.5.5.16.6.                 Animalia.Chordata.Mammalia.Carnivora.Viverridae.Paradoxurus.
+908       1.3.5.5.16.6.1.               Animalia.Chordata.Mammalia.Carnivora.Viverridae.Paradoxurus.Paradoxurus hermaphroditus.
+909       1.3.5.5.16.7.                 Animalia.Chordata.Mammalia.Carnivora.Viverridae.Viverra.
+910       1.3.5.5.16.7.1.               Animalia.Chordata.Mammalia.Carnivora.Viverridae.Viverra.Viverra tangalunga.
+911       1.3.5.6.                      Animalia.Chordata.Mammalia.Carnivors.
+912       1.3.5.6.1.                    Animalia.Chordata.Mammalia.Carnivors.Canidae.
+913       1.3.5.6.1.1.                  Animalia.Chordata.Mammalia.Carnivors.Canidae.Canis.
+914       1.3.5.6.1.1.1.                Animalia.Chordata.Mammalia.Carnivors.Canidae.Canis.Canis lupus.
+915       1.3.5.7.                      Animalia.Chordata.Mammalia.Cetacea.
+916       1.3.5.7.1.                    Animalia.Chordata.Mammalia.Cetacea.Balaenopteridae.
+917       1.3.5.7.1.1.                  Animalia.Chordata.Mammalia.Cetacea.Balaenopteridae.Balaenoptera.
+918       1.3.5.7.1.1.1.                Animalia.Chordata.Mammalia.Cetacea.Balaenopteridae.Balaenoptera.Balaenoptera Physalus.
+919       1.3.5.7.1.1.2.                Animalia.Chordata.Mammalia.Cetacea.Balaenopteridae.Balaenoptera.Balaenoptera acutorostrata.
+920       1.3.5.7.1.1.3.                Animalia.Chordata.Mammalia.Cetacea.Balaenopteridae.Balaenoptera.Balaenoptera borealis.
+921       1.3.5.7.1.1.4.                Animalia.Chordata.Mammalia.Cetacea.Balaenopteridae.Balaenoptera.Balsenoptera musculus.
+922       1.3.5.7.1.2.                  Animalia.Chordata.Mammalia.Cetacea.Balaenopteridae.Megaptera.
+923       1.3.5.7.1.2.1.                Animalia.Chordata.Mammalia.Cetacea.Balaenopteridae.Megaptera.Megaptera novaeangliae.
+924       1.3.5.7.2.                    Animalia.Chordata.Mammalia.Cetacea.Delphinidae.
+925       1.3.5.7.2.1.                  Animalia.Chordata.Mammalia.Cetacea.Delphinidae.Lagenorhynchus.
+926       1.3.5.7.2.1.1.                Animalia.Chordata.Mammalia.Cetacea.Delphinidae.Lagenorhynchus.Lagenorhynchus obscurus.
+927       1.3.5.7.2.2.                  Animalia.Chordata.Mammalia.Cetacea.Delphinidae.Orcinus.
+928       1.3.5.7.2.2.1.                Animalia.Chordata.Mammalia.Cetacea.Delphinidae.Orcinus.Orcinus orca.
+929       1.3.5.7.2.3.                  Animalia.Chordata.Mammalia.Cetacea.Delphinidae.Tursiops.
+930       1.3.5.7.2.3.1.                Animalia.Chordata.Mammalia.Cetacea.Delphinidae.Tursiops.Tursiops Truncatus.
+931       1.3.5.7.3.                    Animalia.Chordata.Mammalia.Cetacea.Monodontidae.
+932       1.3.5.7.3.1.                  Animalia.Chordata.Mammalia.Cetacea.Monodontidae.Monodon.
+933       1.3.5.7.3.1.1.                Animalia.Chordata.Mammalia.Cetacea.Monodontidae.Monodon.Monodon monoceros.
+934       1.3.5.7.4.                    Animalia.Chordata.Mammalia.Cetacea.Physeteridae.
+935       1.3.5.7.4.1.                  Animalia.Chordata.Mammalia.Cetacea.Physeteridae.Physeter.
+936       1.3.5.7.4.1.1.                Animalia.Chordata.Mammalia.Cetacea.Physeteridae.Physeter.Physeter macrocephalus.
+937       1.3.5.8.                      Animalia.Chordata.Mammalia.Cetartiodactyla.
+938       1.3.5.8.1.                    Animalia.Chordata.Mammalia.Cetartiodactyla.Bovidae.
+939       1.3.5.8.1.1.                  Animalia.Chordata.Mammalia.Cetartiodactyla.Bovidae.Capra.
+940       1.3.5.8.1.1.1.                Animalia.Chordata.Mammalia.Cetartiodactyla.Bovidae.Capra.Capra sibirica.
+941       1.3.5.8.2.                    Animalia.Chordata.Mammalia.Cetartiodactyla.Lipotidae.
+942       1.3.5.8.2.1.                  Animalia.Chordata.Mammalia.Cetartiodactyla.Lipotidae.Liptodes.
+943       1.3.5.8.2.1.1.                Animalia.Chordata.Mammalia.Cetartiodactyla.Lipotidae.Liptodes.Liptodes vexillifer.
+944       1.3.5.9.                      Animalia.Chordata.Mammalia.Chiroptera.
+945       1.3.5.9.1.                    Animalia.Chordata.Mammalia.Chiroptera.Microchiroptera.
+946       1.3.5.9.1.1.                  Animalia.Chordata.Mammalia.Chiroptera.Microchiroptera.Emballonuridae.
+947       1.3.5.9.1.1.1.                Animalia.Chordata.Mammalia.Chiroptera.Microchiroptera.Emballonuridae.Chiroptera.
+948       1.3.5.9.2.                    Animalia.Chordata.Mammalia.Chiroptera.Molossidae.
+949       1.3.5.9.2.1.                  Animalia.Chordata.Mammalia.Chiroptera.Molossidae.Tadarida.
+950       1.3.5.9.2.1.1.                Animalia.Chordata.Mammalia.Chiroptera.Molossidae.Tadarida.Tadarida brasiliensis.
+951       1.3.5.9.3.                    Animalia.Chordata.Mammalia.Chiroptera.Phyllostomidae.
+952       1.3.5.9.3.1.                  Animalia.Chordata.Mammalia.Chiroptera.Phyllostomidae.Ectophylla.
+953       1.3.5.9.3.1.1.                Animalia.Chordata.Mammalia.Chiroptera.Phyllostomidae.Ectophylla.Ectophylla alba.
+954       1.3.5.9.4.                    Animalia.Chordata.Mammalia.Chiroptera.Pteropodidae.
+955       1.3.5.9.4.1.                  Animalia.Chordata.Mammalia.Chiroptera.Pteropodidae.Acerodon.
+956       1.3.5.9.4.1.1.                Animalia.Chordata.Mammalia.Chiroptera.Pteropodidae.Acerodon.Acerodon jubatus.
+957       1.3.5.9.5.                    Animalia.Chordata.Mammalia.Chiroptera.Vespertilionidae.
+958       1.3.5.9.5.1.                  Animalia.Chordata.Mammalia.Chiroptera.Vespertilionidae.Lasiurus.
+959       1.3.5.9.5.1.1.                Animalia.Chordata.Mammalia.Chiroptera.Vespertilionidae.Lasiurus.Lasiurus cinereus.
+960       1.3.5.9.5.2.                  Animalia.Chordata.Mammalia.Chiroptera.Vespertilionidae.Myotis.
+961       1.3.5.9.5.2.1.                Animalia.Chordata.Mammalia.Chiroptera.Vespertilionidae.Myotis.Myotis lucifugus.
+962       1.3.5.10.                     Animalia.Chordata.Mammalia.Cingulata.
+963       1.3.5.10.1.                   Animalia.Chordata.Mammalia.Cingulata.Chlamyphoridae.
+964       1.3.5.10.1.1.                 Animalia.Chordata.Mammalia.Cingulata.Chlamyphoridae.Priodontes.
+965       1.3.5.10.1.1.1.               Animalia.Chordata.Mammalia.Cingulata.Chlamyphoridae.Priodontes.Priodontes maximus.
+966       1.3.5.10.2.                   Animalia.Chordata.Mammalia.Cingulata.Dasypodidae.
+967       1.3.5.10.2.1.                 Animalia.Chordata.Mammalia.Cingulata.Dasypodidae.Chlamyphorus.
+968       1.3.5.10.2.1.1.               Animalia.Chordata.Mammalia.Cingulata.Dasypodidae.Chlamyphorus.Chlamyphorus truncatus.
+969       1.3.5.10.2.2.                 Animalia.Chordata.Mammalia.Cingulata.Dasypodidae.Dasypus.
+970       1.3.5.10.2.2.1.               Animalia.Chordata.Mammalia.Cingulata.Dasypodidae.Dasypus.Dasypodidae.
+971       1.3.5.11.                     Animalia.Chordata.Mammalia.Dasyuromorphia.
+972       1.3.5.11.1.                   Animalia.Chordata.Mammalia.Dasyuromorphia.+Thylacinidae.
+973       1.3.5.11.1.1.                 Animalia.Chordata.Mammalia.Dasyuromorphia.+Thylacinidae.+Thylacinus.
+974       1.3.5.11.1.1.1.               Animalia.Chordata.Mammalia.Dasyuromorphia.+Thylacinidae.+Thylacinus.+Thylacinus cynocephalus.
+975       1.3.5.11.2.                   Animalia.Chordata.Mammalia.Dasyuromorphia.Dasyuridae.
+976       1.3.5.11.2.1.                 Animalia.Chordata.Mammalia.Dasyuromorphia.Dasyuridae.Dasyurus.
+977       1.3.5.11.2.1.1.               Animalia.Chordata.Mammalia.Dasyuromorphia.Dasyuridae.Dasyurus.Dasyurus Viverrinus.
+978       1.3.5.11.2.2.                 Animalia.Chordata.Mammalia.Dasyuromorphia.Dasyuridae.Sarcophilus.
+979       1.3.5.11.2.2.1.               Animalia.Chordata.Mammalia.Dasyuromorphia.Dasyuridae.Sarcophilus.Sarcophilus harrisii.
+980       1.3.5.11.3.                   Animalia.Chordata.Mammalia.Dasyuromorphia.Myrmecobiidae.
+981       1.3.5.11.3.1.                 Animalia.Chordata.Mammalia.Dasyuromorphia.Myrmecobiidae.Myrmecobius.
+982       1.3.5.11.3.1.1.               Animalia.Chordata.Mammalia.Dasyuromorphia.Myrmecobiidae.Myrmecobius.Myrmecobius Fasciatus.
+983       1.3.5.12.                     Animalia.Chordata.Mammalia.Didelphimorphia.
+984       1.3.5.12.1.                   Animalia.Chordata.Mammalia.Didelphimorphia.Didelphidae.
+985       1.3.5.12.1.1.                 Animalia.Chordata.Mammalia.Didelphimorphia.Didelphidae.Didelphis.
+986       1.3.5.12.1.1.1.               Animalia.Chordata.Mammalia.Didelphimorphia.Didelphidae.Didelphis.Didelphis Virginiana.
+987       1.3.5.13.                     Animalia.Chordata.Mammalia.Diprotodontia.
+988       1.3.5.13.1.                   Animalia.Chordata.Mammalia.Diprotodontia.Macropodidae.
+989       1.3.5.13.1.1.                 Animalia.Chordata.Mammalia.Diprotodontia.Macropodidae.Macropus.
+990       1.3.5.13.1.1.1.               Animalia.Chordata.Mammalia.Diprotodontia.Macropodidae.Macropus.Macropus.
+991       1.3.5.13.1.2.                 Animalia.Chordata.Mammalia.Diprotodontia.Macropodidae.Setonix.
+992       1.3.5.13.1.2.1.               Animalia.Chordata.Mammalia.Diprotodontia.Macropodidae.Setonix.Setonix brachyurus.
+993       1.3.5.13.1.3.                 Animalia.Chordata.Mammalia.Diprotodontia.Macropodidae.Thylogale.
+994       1.3.5.13.1.3.1.               Animalia.Chordata.Mammalia.Diprotodontia.Macropodidae.Thylogale.Thylogale.
+995       1.3.5.13.2.                   Animalia.Chordata.Mammalia.Diprotodontia.Petauridae.
+996       1.3.5.13.2.1.                 Animalia.Chordata.Mammalia.Diprotodontia.Petauridae.Petaurus.
+997       1.3.5.13.2.1.1.               Animalia.Chordata.Mammalia.Diprotodontia.Petauridae.Petaurus.Petaurus breviceps.
+998       1.3.5.13.3.                   Animalia.Chordata.Mammalia.Diprotodontia.Phalangeriformes.
+999       1.3.5.13.3.1.                 Animalia.Chordata.Mammalia.Diprotodontia.Phalangeriformes.Phalangeridae.
+1000      1.3.5.13.3.1.1.               Animalia.Chordata.Mammalia.Diprotodontia.Phalangeriformes.Phalangeridae.Phalangeriforme.
+1001      1.3.5.13.4.                   Animalia.Chordata.Mammalia.Diprotodontia.Phascolarctidae.
+1002      1.3.5.13.4.1.                 Animalia.Chordata.Mammalia.Diprotodontia.Phascolarctidae.Phascolarctos.
+1003      1.3.5.13.4.1.1.               Animalia.Chordata.Mammalia.Diprotodontia.Phascolarctidae.Phascolarctos.Phascolarctos cinereus.
+1004      1.3.5.13.5.                   Animalia.Chordata.Mammalia.Diprotodontia.Potoroidae.
+1005      1.3.5.13.5.1.                 Animalia.Chordata.Mammalia.Diprotodontia.Potoroidae.Potorous.
+1006      1.3.5.13.5.1.1.               Animalia.Chordata.Mammalia.Diprotodontia.Potoroidae.Potorous.Potorous tridactylus.
+1007      1.3.5.13.6.                   Animalia.Chordata.Mammalia.Diprotodontia.Vombatidae.
+1008      1.3.5.13.6.1.                 Animalia.Chordata.Mammalia.Diprotodontia.Vombatidae.Vombatus.
+1009      1.3.5.13.6.1.1.               Animalia.Chordata.Mammalia.Diprotodontia.Vombatidae.Vombatus.Vombatus Ursinus.
+1010      1.3.5.14.                     Animalia.Chordata.Mammalia.Eulipotyphla.
+1011      1.3.5.14.1.                   Animalia.Chordata.Mammalia.Eulipotyphla.Talpidae.
+1012      1.3.5.14.1.1.                 Animalia.Chordata.Mammalia.Eulipotyphla.Talpidae.Condylura.
+1013      1.3.5.14.1.1.1.               Animalia.Chordata.Mammalia.Eulipotyphla.Talpidae.Condylura.Condylura cristata.
+1014      1.3.5.15.                     Animalia.Chordata.Mammalia.Hyracoidea.
+1015      1.3.5.15.1.                   Animalia.Chordata.Mammalia.Hyracoidea.Procaviidae.
+1016      1.3.5.15.1.1.                 Animalia.Chordata.Mammalia.Hyracoidea.Procaviidae.Procavia.
+1017      1.3.5.15.1.1.1.               Animalia.Chordata.Mammalia.Hyracoidea.Procaviidae.Procavia.Procavia capensis.
+1018      1.3.5.16.                     Animalia.Chordata.Mammalia.Lagomorpha.
+1019      1.3.5.16.1.                   Animalia.Chordata.Mammalia.Lagomorpha.Leporidae.
+1020      1.3.5.16.1.1.                 Animalia.Chordata.Mammalia.Lagomorpha.Leporidae.Lepus.
+1021      1.3.5.16.1.1.1.               Animalia.Chordata.Mammalia.Lagomorpha.Leporidae.Lepus.Lepus.
+1022      1.3.5.16.1.1.2.               Animalia.Chordata.Mammalia.Lagomorpha.Leporidae.Lepus.Lepus Arcticus.
+1023      1.3.5.16.1.1.3.               Animalia.Chordata.Mammalia.Lagomorpha.Leporidae.Lepus.Lepus americanus.
+1024      1.3.5.16.1.2.                 Animalia.Chordata.Mammalia.Lagomorpha.Leporidae.Oryctolagus.
+1025      1.3.5.16.1.2.1.               Animalia.Chordata.Mammalia.Lagomorpha.Leporidae.Oryctolagus.Oryctolagus cuniculus.
+1026      1.3.5.16.2.                   Animalia.Chordata.Mammalia.Lagomorpha.Ochotonidae.
+1027      1.3.5.16.2.1.                 Animalia.Chordata.Mammalia.Lagomorpha.Ochotonidae.Ochotona.
+1028      1.3.5.16.2.1.1.               Animalia.Chordata.Mammalia.Lagomorpha.Ochotonidae.Ochotona.Ochotona Minor.
+1029      1.3.5.17.                     Animalia.Chordata.Mammalia.Macroscelidea.
+1030      1.3.5.17.1.                   Animalia.Chordata.Mammalia.Macroscelidea.Macroscelididae.
+1031      1.3.5.17.1.1.                 Animalia.Chordata.Mammalia.Macroscelidea.Macroscelididae.Elephantulus.
+1032      1.3.5.17.1.1.1.               Animalia.Chordata.Mammalia.Macroscelidea.Macroscelididae.Elephantulus.Elephantulus.
+1033      1.3.5.18.                     Animalia.Chordata.Mammalia.Marsupialia.
+1034      1.3.5.18.1.                   Animalia.Chordata.Mammalia.Marsupialia.Phalangeridae.
+1035      1.3.5.18.1.1.                 Animalia.Chordata.Mammalia.Marsupialia.Phalangeridae.Phalanger.
+1036      1.3.5.18.1.1.1.               Animalia.Chordata.Mammalia.Marsupialia.Phalangeridae.Phalanger.Phalanger maculatus.
+1037      1.3.5.19.                     Animalia.Chordata.Mammalia.Monotremata.
+1038      1.3.5.19.1.                   Animalia.Chordata.Mammalia.Monotremata.Ornithorhynchidae.
+1039      1.3.5.19.1.1.                 Animalia.Chordata.Mammalia.Monotremata.Ornithorhynchidae.Ornithorhynchus.
+1040      1.3.5.19.1.1.1.               Animalia.Chordata.Mammalia.Monotremata.Ornithorhynchidae.Ornithorhynchus.Ornithorhynchus anatinus.
+1041      1.3.5.19.2.                   Animalia.Chordata.Mammalia.Monotremata.Tachyglossidae.
+1042      1.3.5.19.2.1.                 Animalia.Chordata.Mammalia.Monotremata.Tachyglossidae.Tachyglossus.
+1043      1.3.5.19.2.1.1.               Animalia.Chordata.Mammalia.Monotremata.Tachyglossidae.Tachyglossus.Tachyglossus Aculeatus.
+1044      1.3.5.20.                     Animalia.Chordata.Mammalia.Peramelemorphia.
+1045      1.3.5.20.1.                   Animalia.Chordata.Mammalia.Peramelemorphia.Peramelidae.
+1046      1.3.5.20.1.1.                 Animalia.Chordata.Mammalia.Peramelemorphia.Peramelidae.Perameles.
+1047      1.3.5.20.1.1.1.               Animalia.Chordata.Mammalia.Peramelemorphia.Peramelidae.Perameles.Perameles.
+1048      1.3.5.20.2.                   Animalia.Chordata.Mammalia.Peramelemorphia.Thylacomyidae.
+1049      1.3.5.20.2.1.                 Animalia.Chordata.Mammalia.Peramelemorphia.Thylacomyidae.Macrotis.
+1050      1.3.5.20.2.1.1.               Animalia.Chordata.Mammalia.Peramelemorphia.Thylacomyidae.Macrotis.Macrotis lagotis.
+1051      1.3.5.21.                     Animalia.Chordata.Mammalia.Perissodactyla.
+1052      1.3.5.21.1.                   Animalia.Chordata.Mammalia.Perissodactyla.Equidae.
+1053      1.3.5.21.1.1.                 Animalia.Chordata.Mammalia.Perissodactyla.Equidae.Equus.
+1054      1.3.5.21.1.1.1.               Animalia.Chordata.Mammalia.Perissodactyla.Equidae.Equus.+Equus quagga quagga.
+1055      1.3.5.21.1.1.2.               Animalia.Chordata.Mammalia.Perissodactyla.Equidae.Equus.Equus Asinus.
+1056      1.3.5.21.1.1.3.               Animalia.Chordata.Mammalia.Perissodactyla.Equidae.Equus.Equus caballus.
+1057      1.3.5.21.1.1.4.               Animalia.Chordata.Mammalia.Perissodactyla.Equidae.Equus.Equus ferus caballus.
+1058      1.3.5.21.1.1.5.               Animalia.Chordata.Mammalia.Perissodactyla.Equidae.Equus.Equus mulus.
+1059      1.3.5.21.1.1.6.               Animalia.Chordata.Mammalia.Perissodactyla.Equidae.Equus.Equus zebra x Equus asinus.
+1060      1.3.5.21.1.1.7.               Animalia.Chordata.Mammalia.Perissodactyla.Equidae.Equus.Equus zebra x Equus caballus.
+1061      1.3.5.21.1.1.8.               Animalia.Chordata.Mammalia.Perissodactyla.Equidae.Equus.Equus zebra, Equus quagga, Equus grevyi.
+1062      1.3.5.21.2.                   Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.
+1063      1.3.5.21.2.1.                 Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.Ceratotherium.
+1064      1.3.5.21.2.1.1.               Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.Ceratotherium.Ceratotherium simum.
+1065      1.3.5.21.2.2.                 Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.Dicerorhinus.
+1066      1.3.5.21.2.2.1.               Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.Dicerorhinus.Dicerorhinus Sumatrensis.
+1067      1.3.5.21.2.3.                 Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.Diceros.
+1068      1.3.5.21.2.3.1.               Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.Diceros.Diceros Bicornis.
+1069      1.3.5.21.2.4.                 Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.Rhinoceros.
+1070      1.3.5.21.2.4.1.               Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.Rhinoceros.Rhinoceros Sondaicus.
+1071      1.3.5.21.2.4.2.               Animalia.Chordata.Mammalia.Perissodactyla.Rhinocerotidae.Rhinoceros.Rhinoceros Unicornis.
+1072      1.3.5.22.                     Animalia.Chordata.Mammalia.Pilosa.
+1073      1.3.5.22.1.                   Animalia.Chordata.Mammalia.Pilosa.Bradypodidae.
+1074      1.3.5.22.1.1.                 Animalia.Chordata.Mammalia.Pilosa.Bradypodidae.Bradypus.
+1075      1.3.5.22.1.1.1.               Animalia.Chordata.Mammalia.Pilosa.Bradypodidae.Bradypus.Choloepus Hoffmani.
+1076      1.3.5.23.                     Animalia.Chordata.Mammalia.Primates.
+1077      1.3.5.23.1.                   Animalia.Chordata.Mammalia.Primates.Atelidae.
+1078      1.3.5.23.1.1.                 Animalia.Chordata.Mammalia.Primates.Atelidae.Alouatta.
+1079      1.3.5.23.1.1.1.               Animalia.Chordata.Mammalia.Primates.Atelidae.Alouatta.Alouatta.
+1080      1.3.5.23.1.2.                 Animalia.Chordata.Mammalia.Primates.Atelidae.Ateles.
+1081      1.3.5.23.1.2.1.               Animalia.Chordata.Mammalia.Primates.Atelidae.Ateles.Simia Paniscus.
+1082      1.3.5.23.1.3.                 Animalia.Chordata.Mammalia.Primates.Atelidae.Lagothrix.
+1083      1.3.5.23.1.3.1.               Animalia.Chordata.Mammalia.Primates.Atelidae.Lagothrix.Lagothrix Lagotricha.
+1084      1.3.5.23.2.                   Animalia.Chordata.Mammalia.Primates.Callitrichidae.
+1085      1.3.5.23.2.1.                 Animalia.Chordata.Mammalia.Primates.Callitrichidae.Leontopithecus.
+1086      1.3.5.23.2.1.1.               Animalia.Chordata.Mammalia.Primates.Callitrichidae.Leontopithecus.Leontopithecus rosalia.
+1087      1.3.5.23.2.2.                 Animalia.Chordata.Mammalia.Primates.Callitrichidae.Saguinus.
+1088      1.3.5.23.2.2.1.               Animalia.Chordata.Mammalia.Primates.Callitrichidae.Saguinus.Saguinus Geoffroyi.
+1089      1.3.5.23.2.2.2.               Animalia.Chordata.Mammalia.Primates.Callitrichidae.Saguinus.Saguinus Imperator.
+1090      1.3.5.23.2.2.3.               Animalia.Chordata.Mammalia.Primates.Callitrichidae.Saguinus.Saguinus Oedipus.
+1091      1.3.5.23.2.2.4.               Animalia.Chordata.Mammalia.Primates.Callitrichidae.Saguinus.Saguinus bicolor.
+1092      1.3.5.23.2.2.5.               Animalia.Chordata.Mammalia.Primates.Callitrichidae.Saguinus.Saguinus midas.
+1093      1.3.5.23.3.                   Animalia.Chordata.Mammalia.Primates.Cebidae.
+1094      1.3.5.23.3.1.                 Animalia.Chordata.Mammalia.Primates.Cebidae.Cebus.
+1095      1.3.5.23.3.1.1.               Animalia.Chordata.Mammalia.Primates.Cebidae.Cebus.Cebus Capucinus.
+1096      1.3.5.23.3.2.                 Animalia.Chordata.Mammalia.Primates.Cebidae.Saimiri.
+1097      1.3.5.23.3.2.1.               Animalia.Chordata.Mammalia.Primates.Cebidae.Saimiri.Saimiri.
+1098      1.3.5.23.4.                   Animalia.Chordata.Mammalia.Primates.Cercopithecidae.
+1099      1.3.5.23.4.1.                 Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Chlorocebus.
+1100      1.3.5.23.4.1.1.               Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Chlorocebus.Chlorocebus pygerythrus.
+1101      1.3.5.23.4.2.                 Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Erythrocebus.
+1102      1.3.5.23.4.2.1.               Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Erythrocebus.Erythrocebus patas.
+1103      1.3.5.23.4.3.                 Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Macaca.
+1104      1.3.5.23.4.3.1.               Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Macaca.Macaca Fascicularis.
+1105      1.3.5.23.4.3.2.               Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Macaca.Macaca fuscata.
+1106      1.3.5.23.4.4.                 Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Mandrillus.
+1107      1.3.5.23.4.4.1.               Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Mandrillus.Mandrillus Sphinx.
+1108      1.3.5.23.4.5.                 Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Nasalis.
+1109      1.3.5.23.4.5.1.               Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Nasalis.Nasalis larvatus.
+1110      1.3.5.23.4.6.                 Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Papio.
+1111      1.3.5.23.4.6.1.               Animalia.Chordata.Mammalia.Primates.Cercopithecidae.Papio.Papio.
+1112      1.3.5.23.5.                   Animalia.Chordata.Mammalia.Primates.Cheirogaleidae.
+1113      1.3.5.23.5.1.                 Animalia.Chordata.Mammalia.Primates.Cheirogaleidae.Microcebus.
+1114      1.3.5.23.5.1.1.               Animalia.Chordata.Mammalia.Primates.Cheirogaleidae.Microcebus.Microcebus murinus.
+1115      1.3.5.23.6.                   Animalia.Chordata.Mammalia.Primates.Daubentoniidae.
+1116      1.3.5.23.6.1.                 Animalia.Chordata.Mammalia.Primates.Daubentoniidae.Daubentonia.
+1117      1.3.5.23.6.1.1.               Animalia.Chordata.Mammalia.Primates.Daubentoniidae.Daubentonia.Daubentonia madagascariensis.
+1118      1.3.5.23.7.                   Animalia.Chordata.Mammalia.Primates.Hominidae.
+1119      1.3.5.23.7.1.                 Animalia.Chordata.Mammalia.Primates.Hominidae.Gorilla.
+1120      1.3.5.23.7.1.1.               Animalia.Chordata.Mammalia.Primates.Hominidae.Gorilla.Gorilla Berengei Berengei.
+1121      1.3.5.23.7.1.2.               Animalia.Chordata.Mammalia.Primates.Hominidae.Gorilla.Gorilla Berengei Graueri.
+1122      1.3.5.23.7.1.3.               Animalia.Chordata.Mammalia.Primates.Hominidae.Gorilla.Gorilla Gorilla.
+1123      1.3.5.23.7.1.4.               Animalia.Chordata.Mammalia.Primates.Hominidae.Gorilla.Gorilla berengei.
+1124      1.3.5.23.7.1.5.               Animalia.Chordata.Mammalia.Primates.Hominidae.Gorilla.Gorilla gorilla diehli.
+1125      1.3.5.23.7.1.6.               Animalia.Chordata.Mammalia.Primates.Hominidae.Gorilla.Gorilla gorilla gorilla.
+1126      1.3.5.23.7.2.                 Animalia.Chordata.Mammalia.Primates.Hominidae.Homo.
+1127      1.3.5.23.7.2.1.               Animalia.Chordata.Mammalia.Primates.Hominidae.Homo.Homo Sapiens Neanderthalensis.
+1128      1.3.5.23.7.2.2.               Animalia.Chordata.Mammalia.Primates.Hominidae.Homo.Homo Sapiens Sapiens.
+1129      1.3.5.23.7.3.                 Animalia.Chordata.Mammalia.Primates.Hominidae.Pan.
+1130      1.3.5.23.7.3.1.               Animalia.Chordata.Mammalia.Primates.Hominidae.Pan.Pan paniscus.
+1131      1.3.5.23.7.3.2.               Animalia.Chordata.Mammalia.Primates.Hominidae.Pan.Pan troglodytes.
+1132      1.3.5.23.7.4.                 Animalia.Chordata.Mammalia.Primates.Hominidae.Pongo.
+1133      1.3.5.23.7.4.1.               Animalia.Chordata.Mammalia.Primates.Hominidae.Pongo.Pongo abelii.
+1134      1.3.5.23.7.4.2.               Animalia.Chordata.Mammalia.Primates.Hominidae.Pongo.Pongo pygmaeus.
+1135      1.3.5.23.7.4.3.               Animalia.Chordata.Mammalia.Primates.Hominidae.Pongo.Pongo pygmaeus, Pongo abelii, Pongo tapanuliensis.
+1136      1.3.5.23.7.4.4.               Animalia.Chordata.Mammalia.Primates.Hominidae.Pongo.Pongo tapanuliensis.
+1137      1.3.5.23.8.                   Animalia.Chordata.Mammalia.Primates.Hylobatidae.
+1138      1.3.5.23.8.1.                 Animalia.Chordata.Mammalia.Primates.Hylobatidae.Hylobates.
+1139      1.3.5.23.8.1.1.               Animalia.Chordata.Mammalia.Primates.Hylobatidae.Hylobates.Hylobatidae.
+1140      1.3.5.23.9.                   Animalia.Chordata.Mammalia.Primates.Indriidae.
+1141      1.3.5.23.9.1.                 Animalia.Chordata.Mammalia.Primates.Indriidae.Indri.
+1142      1.3.5.23.9.1.1.               Animalia.Chordata.Mammalia.Primates.Indriidae.Indri.Indri indri.
+1143      1.3.5.23.10.                  Animalia.Chordata.Mammalia.Primates.Pitheciidae.
+1144      1.3.5.23.10.1.                Animalia.Chordata.Mammalia.Primates.Pitheciidae.Cacajao.
+1145      1.3.5.23.10.1.1.              Animalia.Chordata.Mammalia.Primates.Pitheciidae.Cacajao.Cacajao.
+1146      1.3.5.23.11.                  Animalia.Chordata.Mammalia.Primates.Tarsiidae.
+1147      1.3.5.23.11.1.                Animalia.Chordata.Mammalia.Primates.Tarsiidae.Tarsius.
+1148      1.3.5.23.11.1.1.              Animalia.Chordata.Mammalia.Primates.Tarsiidae.Tarsius.Tarsius.
+1149      1.3.5.24.                     Animalia.Chordata.Mammalia.Proboscidea.
+1150      1.3.5.24.1.                   Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.
+1151      1.3.5.24.1.1.                 Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Elephas.
+1152      1.3.5.24.1.1.1.               Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Elephas.Elephas Maximus Maximus.
+1153      1.3.5.24.1.1.2.               Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Elephas.Elephas Maximus Sumatranus.
+1154      1.3.5.24.1.1.3.               Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Elephas.Elephas maximus.
+1155      1.3.5.24.1.1.4.               Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Elephas.Elephas maximus borneensis.
+1156      1.3.5.24.1.1.5.               Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Elephas.Elephas maximus indicus.
+1157      1.3.5.24.1.2.                 Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Loxodonta.
+1158      1.3.5.24.1.2.1.               Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Loxodonta.Loxodonta africana africana.
+1159      1.3.5.24.1.2.2.               Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Loxodonta.Loxodonta cyclotis.
+1160      1.3.5.24.1.3.                 Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Mammuthus.
+1161      1.3.5.24.1.3.1.               Animalia.Chordata.Mammalia.Proboscidea.Elephantidae.Mammuthus.Mammuthus Primigenius.
+1162      1.3.5.25.                     Animalia.Chordata.Mammalia.Rodentia.
+1163      1.3.5.25.1.                   Animalia.Chordata.Mammalia.Rodentia.Caviidae.
+1164      1.3.5.25.1.1.                 Animalia.Chordata.Mammalia.Rodentia.Caviidae.Cavia.
+1165      1.3.5.25.1.1.1.               Animalia.Chordata.Mammalia.Rodentia.Caviidae.Cavia.Cavia porcellus.
+1166      1.3.5.25.1.2.                 Animalia.Chordata.Mammalia.Rodentia.Caviidae.Hydrochoerus.
+1167      1.3.5.25.1.2.1.               Animalia.Chordata.Mammalia.Rodentia.Caviidae.Hydrochoerus.Hydrochoerus hydrochaeris.
+1168      1.3.5.25.2.                   Animalia.Chordata.Mammalia.Rodentia.Chinchillidae.
+1169      1.3.5.25.2.1.                 Animalia.Chordata.Mammalia.Rodentia.Chinchillidae.Chinchilla.
+1170      1.3.5.25.2.1.1.               Animalia.Chordata.Mammalia.Rodentia.Chinchillidae.Chinchilla.Chinchilla Lanigera.
+1171      1.3.5.25.3.                   Animalia.Chordata.Mammalia.Rodentia.Cricetidae.
+1172      1.3.5.25.3.1.                 Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Arvicola.
+1173      1.3.5.25.3.1.1.               Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Arvicola.Arvicola amphibius.
+1174      1.3.5.25.3.2.                 Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Lemmus.
+1175      1.3.5.25.3.2.1.               Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Lemmus.Lemmus Lemmus.
+1176      1.3.5.25.3.3.                 Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Mesocricetus.
+1177      1.3.5.25.3.3.1.               Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Mesocricetus.Mesocricetus auratus.
+1178      1.3.5.25.3.4.                 Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Ondatra.
+1179      1.3.5.25.3.4.1.               Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Ondatra.Ondatra zibethicus.
+1180      1.3.5.25.3.5.                 Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Peromyscus.
+1181      1.3.5.25.3.5.1.               Animalia.Chordata.Mammalia.Rodentia.Cricetidae.Peromyscus.Peromyscus erimicus.
+1182      1.3.5.25.4.                   Animalia.Chordata.Mammalia.Rodentia.Erethizontidae.
+1183      1.3.5.25.4.1.                 Animalia.Chordata.Mammalia.Rodentia.Erethizontidae.Erethizon.
+1184      1.3.5.25.4.1.1.               Animalia.Chordata.Mammalia.Rodentia.Erethizontidae.Erethizon.Erethizon Dorsaum.
+1185      1.3.5.25.5.                   Animalia.Chordata.Mammalia.Rodentia.Geomyidae.
+1186      1.3.5.25.5.1.                 Animalia.Chordata.Mammalia.Rodentia.Geomyidae.Geomys.
+1187      1.3.5.25.5.1.1.               Animalia.Chordata.Mammalia.Rodentia.Geomyidae.Geomys.Geomys bursarius.
+1188      1.3.5.25.6.                   Animalia.Chordata.Mammalia.Rodentia.Heterocephalidae.
+1189      1.3.5.25.6.1.                 Animalia.Chordata.Mammalia.Rodentia.Heterocephalidae.Heterocephalus.
+1190      1.3.5.25.6.1.1.               Animalia.Chordata.Mammalia.Rodentia.Heterocephalidae.Heterocephalus.Heterocephalus glaber.
+1191      1.3.5.25.7.                   Animalia.Chordata.Mammalia.Rodentia.Muridae.
+1192      1.3.5.25.7.1.                 Animalia.Chordata.Mammalia.Rodentia.Muridae.Rattus.
+1193      1.3.5.25.7.1.1.               Animalia.Chordata.Mammalia.Rodentia.Muridae.Rattus.Rattus rattus.
+1194      1.3.5.25.8.                   Animalia.Chordata.Mammalia.Rodentia.Sciuridae.
+1195      1.3.5.25.8.1.                 Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Funambulus.
+1196      1.3.5.25.8.1.1.               Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Funambulus.Funambulus Palmarum.
+1197      1.3.5.25.8.2.                 Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Pteromyini.
+1198      1.3.5.25.8.2.1.               Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Pteromyini.Pteromyini.
+1199      1.3.5.25.8.3.                 Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Ratufa.
+1200      1.3.5.25.8.3.1.               Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Ratufa.Ratufa indica.
+1201      1.3.5.25.8.4.                 Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Sciurus.
+1202      1.3.5.25.8.4.1.               Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Sciurus.Sciurus lis.
+1203      1.3.5.25.8.5.                 Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Tamiasciurus.
+1204      1.3.5.25.8.5.1.               Animalia.Chordata.Mammalia.Rodentia.Sciuridae.Tamiasciurus.Tamiasciurus hudsonicus.
+1205      1.3.5.26.                     Animalia.Chordata.Mammalia.Sirenia.
+1206      1.3.5.26.1.                   Animalia.Chordata.Mammalia.Sirenia.Dugongidae.
+1207      1.3.5.26.1.1.                 Animalia.Chordata.Mammalia.Sirenia.Dugongidae.Dugong.
+1208      1.3.5.26.1.1.1.               Animalia.Chordata.Mammalia.Sirenia.Dugongidae.Dugong.Dugong Dugon.
+1209      1.3.5.27.                     Animalia.Chordata.Mammalia.Tubulidentata.
+1210      1.3.5.27.1.                   Animalia.Chordata.Mammalia.Tubulidentata.Orycteropodidae.
+1211      1.3.5.27.1.1.                 Animalia.Chordata.Mammalia.Tubulidentata.Orycteropodidae.Orycteropus.
+1212      1.3.5.27.1.1.1.               Animalia.Chordata.Mammalia.Tubulidentata.Orycteropodidae.Orycteropus.Orycteropus afer.
+1213      1.3.5.28.                     Animalia.Chordata.Mammalia.Xenarthra.
+1214      1.3.5.28.1.                   Animalia.Chordata.Mammalia.Xenarthra.Myrmecophagidae.
+1215      1.3.5.28.1.1.                 Animalia.Chordata.Mammalia.Xenarthra.Myrmecophagidae.Tamandua.
+1216      1.3.5.28.1.1.1.               Animalia.Chordata.Mammalia.Xenarthra.Myrmecophagidae.Tamandua.Myrmecophaga Tridactyla.
+1217      1.3.5.29.                     Animalia.Chordata.Mammalia.artiodactyla.
+1218      1.3.5.29.1.                   Animalia.Chordata.Mammalia.artiodactyla.Bovidae.
+1219      1.3.5.29.1.1.                 Animalia.Chordata.Mammalia.artiodactyla.Bovidae.Capra.
+1220      1.3.5.29.1.1.1.               Animalia.Chordata.Mammalia.artiodactyla.Bovidae.Capra.Capra hircus.
+1221      1.3.5.30.                     Animalia.Chordata.Mammalia.mam.
+1222      1.3.5.30.1.                   Animalia.Chordata.Mammalia.mam.Canidae.
+1223      1.3.5.30.1.1.                 Animalia.Chordata.Mammalia.mam.Canidae.Canis.
+1224      1.3.5.30.1.1.1.               Animalia.Chordata.Mammalia.mam.Canidae.Canis.Canis lupus.
+1225      1.3.6.                        Animalia.Chordata.Reptilia.
+1226      1.3.6.1.                      Animalia.Chordata.Reptilia.Crocodilia.
+1227      1.3.6.1.1.                    Animalia.Chordata.Reptilia.Crocodilia.Alligatoridae.
+1228      1.3.6.1.1.1.                  Animalia.Chordata.Reptilia.Crocodilia.Alligatoridae.Alligator.
+1229      1.3.6.1.1.1.1.                Animalia.Chordata.Reptilia.Crocodilia.Alligatoridae.Alligator.Aliigator sinensis.
+1230      1.3.6.1.1.1.2.                Animalia.Chordata.Reptilia.Crocodilia.Alligatoridae.Alligator.Alligator mississippiensis.
+1231      1.3.6.1.1.2.                  Animalia.Chordata.Reptilia.Crocodilia.Alligatoridae.Caimaninae.
+1232      1.3.6.1.1.2.1.                Animalia.Chordata.Reptilia.Crocodilia.Alligatoridae.Caimaninae.Caiman crocodilus, Melanosuchus niger, Caiman yacare, Paleosuchus palpebrosus, Paleosuchus trigonatus, Caiman latirostris.
+1233      1.3.6.1.2.                    Animalia.Chordata.Reptilia.Crocodilia.Crocodylidae.
+1234      1.3.6.1.2.1.                  Animalia.Chordata.Reptilia.Crocodilia.Crocodylidae.Crocodylus.
+1235      1.3.6.1.2.1.1.                Animalia.Chordata.Reptilia.Crocodilia.Crocodylidae.Crocodylus.Crocodylus acutus.
+1236      1.3.6.1.2.1.2.                Animalia.Chordata.Reptilia.Crocodilia.Crocodylidae.Crocodylus.Crocodylus niloticus.
+1237      1.3.6.1.3.                    Animalia.Chordata.Reptilia.Crocodilia.Gavialidae.
+1238      1.3.6.1.3.1.                  Animalia.Chordata.Reptilia.Crocodilia.Gavialidae.Gavialis.
+1239      1.3.6.1.3.1.1.                Animalia.Chordata.Reptilia.Crocodilia.Gavialidae.Gavialis.Gavialis gangeticus.
+1240      1.3.6.2.                      Animalia.Chordata.Reptilia.Reptilia Order:	Squamata.
+1241      1.3.6.2.1.                    Animalia.Chordata.Reptilia.Reptilia Order:	Squamata.Colubridae.
+1242      1.3.6.2.1.1.                  Animalia.Chordata.Reptilia.Reptilia Order:	Squamata.Colubridae.Contia.
+1243      1.3.6.2.1.1.1.                Animalia.Chordata.Reptilia.Reptilia Order:	Squamata.Colubridae.Contia.Contia tenuis.
+1244      1.3.6.3.                      Animalia.Chordata.Reptilia.Sphenodontia.
+1245      1.3.6.3.1.                    Animalia.Chordata.Reptilia.Sphenodontia.Sphenodontidae.
+1246      1.3.6.3.1.1.                  Animalia.Chordata.Reptilia.Sphenodontia.Sphenodontidae.Sphenodon.
+1247      1.3.6.3.1.1.1.                Animalia.Chordata.Reptilia.Sphenodontia.Sphenodontidae.Sphenodon.Sphenodon Punctatus.
+1248      1.3.6.4.                      Animalia.Chordata.Reptilia.Squamata.
+1249      1.3.6.4.1.                    Animalia.Chordata.Reptilia.Squamata.Agamidae.
+1250      1.3.6.4.1.1.                  Animalia.Chordata.Reptilia.Squamata.Agamidae.Chlamydosaurus.
+1251      1.3.6.4.1.1.1.                Animalia.Chordata.Reptilia.Squamata.Agamidae.Chlamydosaurus.Chlamydosaurus kingii.
+1252      1.3.6.4.1.2.                  Animalia.Chordata.Reptilia.Squamata.Agamidae.Draco.
+1253      1.3.6.4.1.2.1.                Animalia.Chordata.Reptilia.Squamata.Agamidae.Draco.Draco volans.
+1254      1.3.6.4.1.3.                  Animalia.Chordata.Reptilia.Squamata.Agamidae.Moloch.
+1255      1.3.6.4.1.3.1.                Animalia.Chordata.Reptilia.Squamata.Agamidae.Moloch.Moloch horridus.
+1256      1.3.6.4.1.4.                  Animalia.Chordata.Reptilia.Squamata.Agamidae.Physignathus.
+1257      1.3.6.4.1.4.1.                Animalia.Chordata.Reptilia.Squamata.Agamidae.Physignathus.Physignathus.
+1258      1.3.6.4.1.5.                  Animalia.Chordata.Reptilia.Squamata.Agamidae.Pogona.
+1259      1.3.6.4.1.5.1.                Animalia.Chordata.Reptilia.Squamata.Agamidae.Pogona.Pogona Vitticeps.
+1260      1.3.6.4.2.                    Animalia.Chordata.Reptilia.Squamata.Anguidae.
+1261      1.3.6.4.2.1.                  Animalia.Chordata.Reptilia.Squamata.Anguidae.Abronia.
+1262      1.3.6.4.2.1.1.                Animalia.Chordata.Reptilia.Squamata.Anguidae.Abronia.Abronia graminea.
+1263      1.3.6.4.2.2.                  Animalia.Chordata.Reptilia.Squamata.Anguidae.Anguis.
+1264      1.3.6.4.2.2.1.                Animalia.Chordata.Reptilia.Squamata.Anguidae.Anguis.Anguis fragilis.
+1265      1.3.6.4.2.3.                  Animalia.Chordata.Reptilia.Squamata.Anguidae.Elgaria.
+1266      1.3.6.4.2.3.1.                Animalia.Chordata.Reptilia.Squamata.Anguidae.Elgaria.Elgaria coerulea.
+1267      1.3.6.4.2.4.                  Animalia.Chordata.Reptilia.Squamata.Anguidae.Ophisaurus.
+1268      1.3.6.4.2.4.1.                Animalia.Chordata.Reptilia.Squamata.Anguidae.Ophisaurus.Ophisaurus.
+1269      1.3.6.4.3.                    Animalia.Chordata.Reptilia.Squamata.Bipedidae.
+1270      1.3.6.4.3.1.                  Animalia.Chordata.Reptilia.Squamata.Bipedidae.Bipes.
+1271      1.3.6.4.3.1.1.                Animalia.Chordata.Reptilia.Squamata.Bipedidae.Bipes.Bipes biporus.
+1272      1.3.6.4.4.                    Animalia.Chordata.Reptilia.Squamata.Chamaeleonidae.
+1273      1.3.6.4.4.1.                  Animalia.Chordata.Reptilia.Squamata.Chamaeleonidae.Brookesia.
+1274      1.3.6.4.4.1.1.                Animalia.Chordata.Reptilia.Squamata.Chamaeleonidae.Brookesia.Brookesia micra.
+1275      1.3.6.4.5.                    Animalia.Chordata.Reptilia.Squamata.Dactyloidae.
+1276      1.3.6.4.5.1.                  Animalia.Chordata.Reptilia.Squamata.Dactyloidae.Anolis.
+1277      1.3.6.4.5.1.1.                Animalia.Chordata.Reptilia.Squamata.Dactyloidae.Anolis.Anolis carolinensis.
+1278      1.3.6.4.6.                    Animalia.Chordata.Reptilia.Squamata.Elapidae.
+1279      1.3.6.4.6.1.                  Animalia.Chordata.Reptilia.Squamata.Elapidae.Ophiophagus.
+1280      1.3.6.4.6.1.1.                Animalia.Chordata.Reptilia.Squamata.Elapidae.Ophiophagus.Ophiophagus hannah.
+1281      1.3.6.4.7.                    Animalia.Chordata.Reptilia.Squamata.Eublepharidae.
+1282      1.3.6.4.7.1.                  Animalia.Chordata.Reptilia.Squamata.Eublepharidae.Eublepharis.
+1283      1.3.6.4.7.1.1.                Animalia.Chordata.Reptilia.Squamata.Eublepharidae.Eublepharis.Eublepharis macularius.
+1284      1.3.6.4.8.                    Animalia.Chordata.Reptilia.Squamata.Gekkonidae.
+1285      1.3.6.4.8.1.                  Animalia.Chordata.Reptilia.Squamata.Gekkonidae.Uroplatus.
+1286      1.3.6.4.8.1.1.                Animalia.Chordata.Reptilia.Squamata.Gekkonidae.Uroplatus.Uroplatus phantasticus.
+1287      1.3.6.4.9.                    Animalia.Chordata.Reptilia.Squamata.Helodermatidae.
+1288      1.3.6.4.9.1.                  Animalia.Chordata.Reptilia.Squamata.Helodermatidae.Heloderma.
+1289      1.3.6.4.9.1.1.                Animalia.Chordata.Reptilia.Squamata.Helodermatidae.Heloderma.Heloderma suspectum.
+1290      1.3.6.4.10.                   Animalia.Chordata.Reptilia.Squamata.Iguanidae.
+1291      1.3.6.4.10.1.                 Animalia.Chordata.Reptilia.Squamata.Iguanidae.Amblyrhynchus.
+1292      1.3.6.4.10.1.1.               Animalia.Chordata.Reptilia.Squamata.Iguanidae.Amblyrhynchus.Amblyrhynchus cristatus.
+1293      1.3.6.4.10.2.                 Animalia.Chordata.Reptilia.Squamata.Iguanidae.Cyclura.
+1294      1.3.6.4.10.2.1.               Animalia.Chordata.Reptilia.Squamata.Iguanidae.Cyclura.Cyclura lewisi.
+1295      1.3.6.4.11.                   Animalia.Chordata.Reptilia.Squamata.Lacertidae.
+1296      1.3.6.4.11.1.                 Animalia.Chordata.Reptilia.Squamata.Lacertidae.Lacerta.
+1297      1.3.6.4.11.1.1.               Animalia.Chordata.Reptilia.Squamata.Lacertidae.Lacerta.Lacerta agilis.
+1298      1.3.6.4.12.                   Animalia.Chordata.Reptilia.Squamata.Phyrnosomatidae.
+1299      1.3.6.4.12.1.                 Animalia.Chordata.Reptilia.Squamata.Phyrnosomatidae.Sceloporus.
+1300      1.3.6.4.12.1.1.               Animalia.Chordata.Reptilia.Squamata.Phyrnosomatidae.Sceloporus.Sceloporus undulatas.
+1301      1.3.6.4.13.                   Animalia.Chordata.Reptilia.Squamata.Pythonidae.
+1302      1.3.6.4.13.1.                 Animalia.Chordata.Reptilia.Squamata.Pythonidae.Python.
+1303      1.3.6.4.13.1.1.               Animalia.Chordata.Reptilia.Squamata.Pythonidae.Python.Python bivittatus.
+1304      1.3.6.4.14.                   Animalia.Chordata.Reptilia.Squamata.Sphaerodactylidae.
+1305      1.3.6.4.14.1.                 Animalia.Chordata.Reptilia.Squamata.Sphaerodactylidae.Sphaerodactylus.
+1306      1.3.6.4.14.1.1.               Animalia.Chordata.Reptilia.Squamata.Sphaerodactylidae.Sphaerodactylus.Sphaerodactylus parthenopion.
+1307      1.3.6.4.15.                   Animalia.Chordata.Reptilia.Squamata.Varanidae.
+1308      1.3.6.4.15.1.                 Animalia.Chordata.Reptilia.Squamata.Varanidae.Varanus.
+1309      1.3.6.4.15.1.1.               Animalia.Chordata.Reptilia.Squamata.Varanidae.Varanus.Varanus komodoensis.
+1310      1.3.6.5.                      Animalia.Chordata.Reptilia.Testudines.
+1311      1.3.6.5.1.                    Animalia.Chordata.Reptilia.Testudines.Chelydridae.
+1312      1.3.6.5.1.1.                  Animalia.Chordata.Reptilia.Testudines.Chelydridae.Chelydra.
+1313      1.3.6.5.1.1.1.                Animalia.Chordata.Reptilia.Testudines.Chelydridae.Chelydra.Chelydridae.
+1314      1.3.6.5.2.                    Animalia.Chordata.Reptilia.Testudines.Emydidae.
+1315      1.3.6.5.2.1.                  Animalia.Chordata.Reptilia.Testudines.Emydidae.Chrysemys.
+1316      1.3.6.5.2.1.1.                Animalia.Chordata.Reptilia.Testudines.Emydidae.Chrysemys.Chrysemys picta.
+1317      1.3.6.5.2.2.                  Animalia.Chordata.Reptilia.Testudines.Emydidae.Terrapene.
+1318      1.3.6.5.2.2.1.                Animalia.Chordata.Reptilia.Testudines.Emydidae.Terrapene.Terrapene carolina.
+1319      1.3.6.5.3.                    Animalia.Chordata.Reptilia.Testudines.Geoemydidae.
+1320      1.3.6.5.3.1.                  Animalia.Chordata.Reptilia.Testudines.Geoemydidae.Heosemys.
+1321      1.3.6.5.3.1.1.                Animalia.Chordata.Reptilia.Testudines.Geoemydidae.Heosemys.Heosemys spinosa.
+1322      1.3.6.5.4.                    Animalia.Chordata.Reptilia.Testudines.Testudinidae.
+1323      1.3.6.5.4.1.                  Animalia.Chordata.Reptilia.Testudines.Testudinidae.Agrionemys.
+1324      1.3.6.5.4.1.1.                Animalia.Chordata.Reptilia.Testudines.Testudinidae.Agrionemys.Agrionemys horsfieldii.
+1325      1.3.6.5.4.2.                  Animalia.Chordata.Reptilia.Testudines.Testudinidae.Astrochelys.
+1326      1.3.6.5.4.2.1.                Animalia.Chordata.Reptilia.Testudines.Testudinidae.Astrochelys.Astrochelys radiata.
+1327      1.3.6.5.4.3.                  Animalia.Chordata.Reptilia.Testudines.Testudinidae.Centrochelys.
+1328      1.3.6.5.4.3.1.                Animalia.Chordata.Reptilia.Testudines.Testudinidae.Centrochelys.Centrochelys sulcata.
+1329      1.3.6.5.4.4.                  Animalia.Chordata.Reptilia.Testudines.Testudinidae.Chelonoidis.
+1330      1.3.6.5.4.4.1.                Animalia.Chordata.Reptilia.Testudines.Testudinidae.Chelonoidis.Chelonoidis nigra.
+1331      1.3.6.5.4.5.                  Animalia.Chordata.Reptilia.Testudines.Testudinidae.Geochelone.
+1332      1.3.6.5.4.5.1.                Animalia.Chordata.Reptilia.Testudines.Testudinidae.Geochelone.Geochelone elegans.
+1333      1.3.6.5.4.5.2.                Animalia.Chordata.Reptilia.Testudines.Testudinidae.Geochelone.Geochelone gigantea.
+1334      1.3.6.5.4.6.                  Animalia.Chordata.Reptilia.Testudines.Testudinidae.Gopherus.
+1335      1.3.6.5.4.6.1.                Animalia.Chordata.Reptilia.Testudines.Testudinidae.Gopherus.Gopherus Agassizii.
+1336      1.3.6.5.4.6.2.                Animalia.Chordata.Reptilia.Testudines.Testudinidae.Gopherus.Gopherus polyphemus.
+1337      1.3.6.5.4.7.                  Animalia.Chordata.Reptilia.Testudines.Testudinidae.Stigmochelys.
+1338      1.3.6.5.4.7.1.                Animalia.Chordata.Reptilia.Testudines.Testudinidae.Stigmochelys.Stigmochelys pardalis.
+1339      1.3.7.                        Animalia.Chordata.Sarcopterygii.
+1340      1.3.7.1.                      Animalia.Chordata.Sarcopterygii.Coelacanthiformes.
+1341      1.3.7.1.1.                    Animalia.Chordata.Sarcopterygii.Coelacanthiformes.Latimeriidae.
+1342      1.3.7.1.1.1.                  Animalia.Chordata.Sarcopterygii.Coelacanthiformes.Latimeriidae.Latimeria.
+1343      1.3.7.1.1.1.1.                Animalia.Chordata.Sarcopterygii.Coelacanthiformes.Latimeriidae.Latimeria.Coelacanthiformes.
+1344      1.4.                          Animalia.Cnidaria.
+1345      1.4.1.                        Animalia.Cnidaria.Hydrozoa.
+1346      1.4.1.1.                      Animalia.Cnidaria.Hydrozoa.Anthoathecata.
+1347      1.4.1.1.1.                    Animalia.Cnidaria.Hydrozoa.Anthoathecata.Oceaniidae.
+1348      1.4.1.1.1.1.                  Animalia.Cnidaria.Hydrozoa.Anthoathecata.Oceaniidae.Turritopsis.
+1349      1.4.1.1.1.1.1.                Animalia.Cnidaria.Hydrozoa.Anthoathecata.Oceaniidae.Turritopsis.Turritopsis dohrnii.
+1350      1.4.1.2.                      Animalia.Cnidaria.Hydrozoa.Siphonophorae.
+1351      1.4.1.2.1.                    Animalia.Cnidaria.Hydrozoa.Siphonophorae.Physaliidae.
+1352      1.4.1.2.1.1.                  Animalia.Cnidaria.Hydrozoa.Siphonophorae.Physaliidae.Physalia.
+1353      1.4.1.2.1.1.1.                Animalia.Cnidaria.Hydrozoa.Siphonophorae.Physaliidae.Physalia.Physalia physalis.
+1354      1.5.                          Animalia.Hemichordata.
+1355      1.5.1.                        Animalia.Hemichordata.Mammalia.
+1356      1.5.1.1.                      Animalia.Hemichordata.Mammalia.Carnivora.
+1357      1.5.1.1.1.                    Animalia.Hemichordata.Mammalia.Carnivora.Canidae.
+1358      1.5.1.1.1.1.                  Animalia.Hemichordata.Mammalia.Carnivora.Canidae.Canis.
+1359      1.5.1.1.1.1.1.                Animalia.Hemichordata.Mammalia.Carnivora.Canidae.Canis.Canis lupus.
+1360      1.6.                          Animalia.Mollusca.
+1361      1.6.1.                        Animalia.Mollusca.Bivalvia.
+1362      1.6.1.1.                      Animalia.Mollusca.Bivalvia.Cardiida.
+1363      1.6.1.1.1.                    Animalia.Mollusca.Bivalvia.Cardiida.Cardiidae.
+1364      1.6.1.1.1.1.                  Animalia.Mollusca.Bivalvia.Cardiida.Cardiidae.Tridacna.
+1365      1.6.1.1.1.1.1.                Animalia.Mollusca.Bivalvia.Cardiida.Cardiidae.Tridacna.Tridacna gigas.
+1366      1.6.1.2.                      Animalia.Mollusca.Bivalvia.Myida.
+1367      1.6.1.2.1.                    Animalia.Mollusca.Bivalvia.Myida.Dreissenidae.
+1368      1.6.1.2.1.1.                  Animalia.Mollusca.Bivalvia.Myida.Dreissenidae.Dreissena.
+1369      1.6.1.2.1.1.1.                Animalia.Mollusca.Bivalvia.Myida.Dreissenidae.Dreissena.Dreissena polymorpha.
+1370      1.6.2.                        Animalia.Mollusca.Cephalopoda.
+1371      1.6.2.1.                      Animalia.Mollusca.Cephalopoda.Oegopsida.
+1372      1.6.2.1.1.                    Animalia.Mollusca.Cephalopoda.Oegopsida.Cranchiidae.
+1373      1.6.2.1.1.1.                  Animalia.Mollusca.Cephalopoda.Oegopsida.Cranchiidae.Mesonychoteuthis.
+1374      1.6.2.1.1.1.1.                Animalia.Mollusca.Cephalopoda.Oegopsida.Cranchiidae.Mesonychoteuthis.Mesonychoteuthis hamiltoni.
+1375      1.6.2.1.2.                    Animalia.Mollusca.Cephalopoda.Oegopsida.Ommastrephidae.
+1376      1.6.2.1.2.1.                  Animalia.Mollusca.Cephalopoda.Oegopsida.Ommastrephidae.Dosidicus.
+1377      1.6.2.1.2.1.1.                Animalia.Mollusca.Cephalopoda.Oegopsida.Ommastrephidae.Dosidicus.Dosidicus gigas.
+1378      1.6.2.2.                      Animalia.Mollusca.Cephalopoda.Vampyromorphida.
+1379      1.6.2.2.1.                    Animalia.Mollusca.Cephalopoda.Vampyromorphida.Vampyroteuthidae.
+1380      1.6.2.2.1.1.                  Animalia.Mollusca.Cephalopoda.Vampyromorphida.Vampyroteuthidae.Vampyroteuthis.
+1381      1.6.2.2.1.1.1.                Animalia.Mollusca.Cephalopoda.Vampyromorphida.Vampyroteuthidae.Vampyroteuthis.Vampyroteuthis infernalis.
+1382      1.6.3.                        Animalia.Mollusca.Gastropoda.
+1383      1.6.3.1.                      Animalia.Mollusca.Gastropoda.Achatinoidea.
+1384      1.6.3.1.1.                    Animalia.Mollusca.Gastropoda.Achatinoidea.Achatinidae.
+1385      1.6.3.1.1.1.                  Animalia.Mollusca.Gastropoda.Achatinoidea.Achatinidae.Achatina.
+1386      1.6.3.1.1.1.1.                Animalia.Mollusca.Gastropoda.Achatinoidea.Achatinidae.Achatina.Achatina fulica.
+1387      1.6.3.2.                      Animalia.Mollusca.Gastropoda.Nudibranchia.
+1388      1.6.3.2.1.                    Animalia.Mollusca.Gastropoda.Nudibranchia.Opistobranches.
+1389      1.6.3.2.1.1.                  Animalia.Mollusca.Gastropoda.Nudibranchia.Opistobranches.Nudibranch.
+1390      1.6.3.2.1.1.1.                Animalia.Mollusca.Gastropoda.Nudibranchia.Opistobranches.Nudibranch.Nudibranchia.
