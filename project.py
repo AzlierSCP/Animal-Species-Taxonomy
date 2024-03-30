@@ -1,9 +1,3 @@
-# ----------------------------------------
-#  CSC 315 / 615 Spring 2023
-#  Project 4 Animal Species Taxonomy
-#
-#  <<Zihan Gao C23745692>>
-# ----------------------------------------
 
 import pandas as pd
 import numpy as np
